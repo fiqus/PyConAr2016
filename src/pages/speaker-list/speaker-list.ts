@@ -41,25 +41,25 @@ export class SpeakerListPage {
 
   openSpeakerShare(speaker) {
     let actionSheet = this.actionSheetCtrl.create({
-      title: 'Share ' + speaker.name,
+      title: 'Compartir ' + speaker.name,
       buttons: [
         {
-          text: 'Copy Link',
+          text: 'Copiar Link',
           handler: () => {
-            console.log('Copy link clicked on https://twitter.com/' + speaker.twitter);
+            console.log('Copiar link clicked on https://twitter.com/' + speaker.twitter);
             if (window['cordova'] && window['cordova'].plugins.clipboard) {
               window['cordova'].plugins.clipboard.copy('https://twitter.com/' + speaker.twitter);
             }
           }
         },
         {
-          text: 'Share via ...',
+          text: 'Compartir a través de ...',
           handler: () => {
             console.log('Share via clicked');
           }
         },
         {
-          text: 'Cancel',
+          text: 'Cancelar',
           role: 'cancel',
           handler: () => {
             console.log('Cancel clicked');
@@ -75,20 +75,13 @@ export class SpeakerListPage {
     let mode = this.config.get('mode');
 
     let actionSheet = this.actionSheetCtrl.create({
-      title: 'Contact with ' + speaker.name,
+      title: 'Contactar con ' + speaker.name,
       buttons: [
         {
-          text: `Email ( ${speaker.email} )`,
+          text: `Enviar un email ( ${speaker.email} )`,
           icon: mode !== 'ios' ? 'mail' : null,
           handler: () => {
             window.open('mailto:' + speaker.email);
-          }
-        },
-        {
-          text: `Call ( ${speaker.phone} )`,
-          icon: mode !== 'ios' ? 'call' : null,
-          handler: () => {
-            window.open('tel:' + speaker.phone);
           }
         }
       ]

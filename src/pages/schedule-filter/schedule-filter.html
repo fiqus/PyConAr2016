@@ -1,15 +1,15 @@
 <ion-header>
   <ion-toolbar>
     <ion-buttons start>
-      <button ion-button (click)="dismiss()">Cancel</button>
+      <button ion-button (click)="dismiss()">Cancelar</button>
     </ion-buttons>
 
     <ion-title>
-      Filter Sessions
+      Filtro de charlas
     </ion-title>
 
     <ion-buttons end>
-      <button ion-button (click)="applyFilters()">Done</button>
+      <button ion-button (click)="applyFilters()">Aplicar</button>
     </ion-buttons>
   </ion-toolbar>
 </ion-header>
@@ -17,7 +17,7 @@
 <ion-content class="outer-content">
 
   <ion-list>
-    <ion-list-header>Tracks</ion-list-header>
+    <ion-list-header>Temas</ion-list-header>
 
     <ion-item *ngFor="let track of tracks" [attr.track]="track.name | lowercase">
       <span item-left class="dot"></span>
@@ -29,7 +29,7 @@
 
   <ion-list>
     <button ion-item (click)="resetFilters()" detail-none class="reset-filters">
-      Reset All Filters
+      Resetear todos los filtros
     </button>
   </ion-list>
 

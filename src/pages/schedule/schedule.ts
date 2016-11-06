@@ -45,7 +45,7 @@ export class SchedulePage {
   }
 
   ionViewDidEnter() {
-    this.app.setTitle('Schedule');
+    this.app.setTitle('Agenda');
   }
 
   ngAfterViewInit() {
@@ -93,14 +93,14 @@ export class SchedulePage {
     if (this.user.hasFavorite(sessionData.name)) {
       // woops, they already favorited it! What shall we do!?
       // prompt them to remove it
-      this.removeFavorite(slidingItem, sessionData, 'Favorite already added');
+      this.removeFavorite(slidingItem, sessionData, 'Esta charla ya fué marcada como favorita');
     } else {
       // remember this session as a user favorite
       this.user.addFavorite(sessionData.name);
 
       // create an alert instance
       let alert = this.alertCtrl.create({
-        title: 'Favorite Added',
+        title: 'Agregada como favorita',
         buttons: [{
           text: 'OK',
           handler: () => {
@@ -118,7 +118,7 @@ export class SchedulePage {
   removeFavorite(slidingItem: ItemSliding, sessionData, title) {
     let alert = this.alertCtrl.create({
       title: title,
-      message: 'Would you like to remove this session from your favorites?',
+      message: 'Quisieras eliminar esta charla de tus favoritas?',
       buttons: [
         {
           text: 'Cancel',

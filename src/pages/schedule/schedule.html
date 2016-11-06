@@ -6,10 +6,10 @@
 
     <ion-segment [(ngModel)]="segment" (ionChange)="updateSchedule()">
       <ion-segment-button value="all">
-        All
+        Todas
       </ion-segment-button>
       <ion-segment-button value="favorites">
-        Favorites
+        Favoritos
       </ion-segment-button>
     </ion-segment>
 
@@ -24,7 +24,7 @@
     <ion-searchbar color="primary"
                    [(ngModel)]="queryText"
                    (ionInput)="updateSchedule()"
-                   placeholder="Search">
+                   placeholder="Buscar">
     </ion-searchbar>
   </ion-toolbar>
 </ion-header>
@@ -53,10 +53,10 @@
 
         <ion-item-options>
           <button ion-button color="favorite" (click)="addFavorite(slidingItem, session)" *ngIf="segment === 'all'">
-            Favorite
+            Favorita
           </button>
           <button ion-button color="danger" (click)="removeFavorite(slidingItem, session, 'Remove Favorite')" *ngIf="segment === 'favorites'">
-            Remove
+            Eliminar
           </button>
         </ion-item-options>
 
@@ -67,7 +67,7 @@
   </ion-list>
 
   <ion-list-header [hidden]="shownSessions > 0">
-      No Sessions Found
+      No se encontraron charlas
   </ion-list-header>
 
 
