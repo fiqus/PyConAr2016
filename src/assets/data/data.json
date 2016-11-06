@@ -340,20 +340,20 @@
 
   "map": [
     {
-      "name": "Monona Terrace Convention Center",
-      "lat": 43.071584,
-      "lng": -89.380120,
+      "name": "Club de emprendedores de Bahía Blanca",
+      "lat": -38.7196638,
+      "lng": -62.269189,
       "center": true
     },
     {
-      "name": "Ionic HQ",
-      "lat": 43.074395,
-      "lng": -89.381056
+      "name": "Salón de los Fundadores de la UNS",
+      "lat": -38.7196938,
+      "lng": -62.2699801
     },
     {
-      "name": "Afterparty - Brocach Irish Pub",
-      "lat": 43.07336,
-      "lng": -89.38335
+      "name": "Complejo Palihue - UNS",
+      "lat": -38.6954712,
+      "lng": -62.2564776
     }
   ]
 
