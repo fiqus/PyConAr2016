@@ -25,10 +25,18 @@ export class MapPage {
           content: `<h5>${markerData.name}</h5>`
         });
 
+        var image = {
+          url: 'assets/img/python-banner.png',
+          size: new google.maps.Size(25, 30),
+          origin: new google.maps.Point(0, 0),
+          anchor: new google.maps.Point(0, 30)
+        };
+
         let marker = new google.maps.Marker({
           position: markerData,
           map: map,
-          title: markerData.name
+          title: markerData.name,
+          icon:image,
         });
 
         marker.addListener('click', () => {
