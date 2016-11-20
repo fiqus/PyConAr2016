@@ -36,9 +36,10 @@ export class ConferenceData {
     // build up the data by linking speakers to sessions
 
     data.tracks = [];
-
+    data.confDays = [];
     // loop through each day in the schedule
     data.schedule.forEach(day => {
+      data.confDays.push(day);
       // loop through each timeline group in the day
       day.groups.forEach(group => {
         // loop through each session in the timeline group
@@ -80,29 +81,34 @@ export class ConferenceData {
 
   getTimeline(dayIndex, queryText = '', excludeTracks = [], segment = 'all') {
     return this.load().then(data => {
-      let day = data.schedule[dayIndex];
-      day.shownSessions = 0;
+        let i = 0;
+        let days = [];
+      for (i; i < data.confDays.length; i = i + 1) {
+        let day = data.schedule[i];
+        day.shownSessions = 0;
 
-      queryText = queryText.toLowerCase().replace(/,|\.|-/g, ' ');
-      let queryWords = queryText.split(' ').filter(w => !!w.trim().length);
+        queryText = queryText.toLowerCase().replace(/,|\.|-/g, ' ');
+        let queryWords = queryText.split(' ').filter(w => !!w.trim().length);
 
-      day.groups.forEach(group => {
-        group.hide = true;
+        if(day != "undefined"){
+            day.groups.forEach(group => {
+              group.hide = true;
 
-        group.sessions.forEach(session => {
-          // check if this session should show or not
-          this.filterSession(session, queryWords, excludeTracks, segment);
+              group.sessions.forEach(session => {
+                // check if this session should show or not
+                this.filterSession(session, queryWords, excludeTracks, segment);
 
-          if (!session.hide) {
-            // if this session is not hidden then this group should show
-            group.hide = false;
-            day.shownSessions++;
-          }
-        });
-
-      });
-
-      return day;
+                if (!session.hide) {
+                  // if this session is not hidden then this group should show
+                  group.hide = false;
+                  day.shownSessions++;
+                }
+              });
+            });
+            days.push(day);
+        }
+      }
+      return days;
     });
   }
 
@@ -129,8 +135,8 @@ export class ConferenceData {
         session.name = session.kind;
       }
     }
-    console.log('session.name', session.name);
-    console.log('session.kind', session.kind);
+    //console.log('session.name', session.name);
+    //console.log('session.kind', session.kind);
 
 
      // if any of the sessions tracks are not in the
@@ -155,7 +161,7 @@ export class ConferenceData {
 
     // all tests must be true if it should not be hidden
     session.hide = !(matchesQueryText && matchesTracks && matchesSegment);
-    console.log('session.hide', session.hide);
+    //console.log('session.hide', session.hide);
   }
 
   getSpeakers() {
@@ -178,6 +184,12 @@ export class ConferenceData {
   getMap() {
     return this.load().then(data => {
       return data.map;
+    });
+  }
+
+  getConfDays(){
+    return this.load().then(data => {
+      return data.confDays;
     });
   }
 
