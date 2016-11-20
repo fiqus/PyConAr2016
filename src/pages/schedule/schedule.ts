@@ -31,7 +31,6 @@ export class SchedulePage {
   excludeTracks = [];
   shownSessions: any = [];
   groups = [];
-  confDate: string;
   confDays = [];
 
   constructor(
@@ -58,16 +57,11 @@ export class SchedulePage {
     this.scheduleList && this.scheduleList.closeSlidingItems();
 
     this.confData.getTimeline(this.dayIndex, this.queryText, this.excludeTracks, this.segment).then(data => {
-      //let timestamp = data.date;
-
       /*
         To learn how to use third party libs in an
         Ionic app check out our docs here: http://ionicframework.com/docs/v2/resources/third-party-libs/
       */
       this.confDays = data;
-      //this.confDate = moment(timestamp).format('MM/DD/YYYY');
-      //this.shownSessions = data.shownSessions;
-      //this.groups = data.groups;
     });
   }
 
@@ -89,6 +83,13 @@ export class SchedulePage {
     // and pass in the session data
     this.navCtrl.push(SessionDetailPage, sessionData);
   }
+
+  toggleDay = function(day) {
+    day.show = !day.show;
+  };
+  isDayShown = function(day) {
+    return !day.show;
+  };
 
   addFavorite(slidingItem: ItemSliding, sessionData) {
 
