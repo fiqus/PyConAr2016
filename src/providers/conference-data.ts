@@ -58,7 +58,7 @@ export class ConferenceData {
     if (session.speakerNames) {
       session.speakerNames.forEach(speakerName => {
         let speaker = data.speakers.find(s => s.name === speakerName);
-        if (speaker) {
+        if (speaker && speaker.name != '') {
           session.speakers.push(speaker);
           speaker.sessions = speaker.sessions || [];
           speaker.sessions.push(session);
@@ -160,7 +160,8 @@ export class ConferenceData {
 
   getSpeakers() {
     return this.load().then(data => {
-      return data.speakers.sort((a, b) => {
+      let filteredSpeakers = data.speakers.filter(s => s.name != "");
+      return filteredSpeakers.sort((a, b) => {
         let aName = a.name.split(' ').pop();
         let bName = b.name.split(' ').pop();
         return aName.localeCompare(bName);
