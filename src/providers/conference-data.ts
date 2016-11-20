@@ -22,7 +22,7 @@ export class ConferenceData {
       // We're using Angular Http provider to request the data,
       // then on the response it'll map the JSON data to a parsed JS object.
       // Next we process the data and resolve the promise with the new data.
-      this.http.get('assets/data/data.json').subscribe(res => {
+      this.http.get('assets/data/pydata.json').subscribe(res => {
         // we've got back the raw data, now generate the core schedule data
         // and save the data for later reference
         this.data = this.processData(res.json());
@@ -64,6 +64,9 @@ export class ConferenceData {
           speaker.sessions.push(session);
         }
       });
+    }
+    if(!session.tracks) {
+      session.tracks = ["Python"]
     }
 
     if (session.tracks) {
@@ -118,7 +121,19 @@ export class ConferenceData {
       matchesQueryText = true;
     }
 
-    // if any of the sessions tracks are not in the
+    //Hack para poner de nombre el almuerzo / acreditaciones y sacar los slots libres
+    if(session.name.toLowerCase() === 'slot') {
+      if(session.kind.toLowerCase() === 'libre') {
+        matchesQueryText = false;
+      } else {
+        session.name = session.kind;
+      }
+    }
+    console.log('session.name', session.name);
+    console.log('session.kind', session.kind);
+
+
+     // if any of the sessions tracks are not in the
     // exclude tracks then this session passes the track test
     let matchesTracks = false;
     session.tracks.forEach(trackName => {
@@ -140,6 +155,7 @@ export class ConferenceData {
 
     // all tests must be true if it should not be hidden
     session.hide = !(matchesQueryText && matchesTracks && matchesSegment);
+    console.log('session.hide', session.hide);
   }
 
   getSpeakers() {
