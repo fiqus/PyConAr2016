@@ -1,6 +1,6 @@
 {
-  "name": "Ionic Conference",
-  "short_name": "Ionic Conf",
+  "name": "Pycon Conference",
+  "short_name": "Pycon Conf",
   "start_url": "index.html",
   "display": "standalone",
   "icons": [{
