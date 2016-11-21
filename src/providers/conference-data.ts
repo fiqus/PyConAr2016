@@ -86,6 +86,7 @@ export class ConferenceData {
       for (i; i < data.confDays.length; i = i + 1) {
         let day = data.schedule[i];
         day.shownSessions = 0;
+        day.show = false;
 
         queryText = queryText.toLowerCase().replace(/,|\.|-/g, ' ');
         let queryWords = queryText.split(' ').filter(w => !!w.trim().length);

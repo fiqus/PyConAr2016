@@ -33,18 +33,21 @@
   <ion-list #scheduleList [hidden]="shownSessions === 0">
       <ion-item-group *ngFor="let day of confDays">
       <ion-item-divider sticky>
-        <ion-label>
-          {{day.date}}
+        <ion-label class="item-stable" (click)="toggleDay(day)"
+                   [ngClass]="{'active': isDayShown(day)}">
+          <strong>{{day.date|date}}</strong>
         </ion-label>
       </ion-item-divider>
-      <ion-item-group *ngFor="let group of day.groups" [hidden]="group.hide">
+      <ion-item-group *ngFor="let group of day.groups"
+                      class="item-accordion" [hidden]="isDayShown(day)">
         <ion-item-divider sticky>
           <ion-label>
             {{group.time}}
           </ion-label>
         </ion-item-divider>
 
-        <ion-item-sliding *ngFor="let session of group.sessions" #slidingItem [attr.track]="session.tracks[0] | lowercase" [hidden]="session.hide">
+        <ion-item-sliding *ngFor="let session of group.sessions"
+                          #slidingItem [attr.track]="session.tracks[0] | lowercase" [hidden]="session.hide">
 
           <button ion-item (click)="goToSessionDetail(session)">
             <h3>{{session.name}}</h3>
@@ -70,7 +73,8 @@
       </ion-item-group>
   </ion-list>
 
-  <ion-list-header [hidden]="shownSessions > 0">
+  <ion-list-header [hidden]="confDays.length > 0">
+      No se encontraron charlas
   </ion-list-header>
 
 

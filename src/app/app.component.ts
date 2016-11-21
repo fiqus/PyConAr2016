@@ -11,6 +11,7 @@ import { TabsPage } from '../pages/tabs/tabs';
 import { ConferenceData } from '../providers/conference-data';
 import { UserData } from '../providers/user-data';
 
+
 export interface PageObj {
   title: string;
   component: any;
@@ -26,6 +27,7 @@ export class ConferenceApp {
   // the root nav is a child of the root app component
   // @ViewChild(Nav) gets a reference to the app's root nav
   @ViewChild(Nav) nav: Nav;
+  deviceUUID: any;
 
   // List of pages that can be navigated to from the left menu
   // the left menu only works after login
