@@ -10,14 +10,11 @@
 <ion-content class="outer-content speaker-list">
   <ion-card *ngFor="let speaker of speakers" class="speaker">
     <ion-card-header>
-      <ion-item>
+      <ion-item (click)="goToSpeakerDetail(speaker)">
         <ion-avatar item-left *ngIf="speaker.profilePic != ''">
           <img [src]="speaker.profilePic">
         </ion-avatar>
         {{speaker.name}}
-        <button ion-button icon-only (click)="openContact(speaker)" clear item-right>
-          <ion-icon name="help-circle"></ion-icon>
-        </button>
       </ion-item>
     </ion-card-header>
 
@@ -26,22 +23,7 @@
         <button ion-item *ngFor="let session of speaker.sessions" (click)="goToSessionDetail(session)">
           <h3>{{session.name}}</h3>
         </button>
-        <button ion-item (click)="goToSpeakerDetail(speaker)">
-          <h3>Acerca {{speaker.name}}</h3>
-        </button>
       </ion-list>
     </ion-card-content>
-
-    <ion-item>
-      <button ion-button icon-left (click)="goToSpeakerTwitter(speaker)" clear item-left>
-        <ion-icon name="logo-twitter"></ion-icon>
-        Tweet
-      </button>
-      <button ion-button icon-left (click)="openSpeakerShare(speaker)" clear item-right>
-        <ion-icon name="share"></ion-icon>
-        Compartir
-      </button>
-    </ion-item>
-
   </ion-card>
 </ion-content>

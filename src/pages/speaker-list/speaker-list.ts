@@ -44,18 +44,11 @@ export class SpeakerListPage {
       title: 'Compartir ' + speaker.name,
       buttons: [
         {
-          text: 'Copiar Link',
+          text: 'Copiar Link de Twitter',
           handler: () => {
-            console.log('Copiar link clicked on https://twitter.com/' + speaker.twitter);
             if (window['cordova'] && window['cordova'].plugins.clipboard) {
               window['cordova'].plugins.clipboard.copy('https://twitter.com/' + speaker.twitter);
             }
-          }
-        },
-        {
-          text: 'Compartir a través de ...',
-          handler: () => {
-            console.log('Share via clicked');
           }
         },
         {
@@ -63,25 +56,6 @@ export class SpeakerListPage {
           role: 'cancel',
           handler: () => {
             console.log('Cancel clicked');
-          }
-        }
-      ]
-    });
-
-    actionSheet.present();
-  }
-
-  openContact(speaker) {
-    let mode = this.config.get('mode');
-
-    let actionSheet = this.actionSheetCtrl.create({
-      title: 'Contactar con ' + speaker.name,
-      buttons: [
-        {
-          text: `Enviar un email ( ${speaker.email} )`,
-          icon: mode !== 'ios' ? 'mail' : null,
-          handler: () => {
-            window.open('mailto:' + speaker.email);
           }
         }
       ]
