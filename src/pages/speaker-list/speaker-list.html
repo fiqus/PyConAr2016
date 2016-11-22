@@ -11,8 +11,9 @@
   <ion-card *ngFor="let speaker of speakers" class="speaker">
     <ion-card-header>
       <ion-item (click)="goToSpeakerDetail(speaker)">
-        <ion-avatar item-left *ngIf="speaker.profilePic != ''">
-          <img [src]="speaker.profilePic">
+        <ion-avatar item-left>
+          <img *ngIf="speaker.profilePic" [src]="speaker.profilePic">
+          <img *ngIf="!speaker.profilePic" src="assets/img/sin_foto.png"><br>
         </ion-avatar>
         {{speaker.name}}
       </ion-item>

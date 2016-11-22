@@ -7,7 +7,9 @@
 <ion-content padding class="speaker-detail">
 
   <div text-center>
-    <img [src]="speaker.profilePic" [alt]="speaker.name"><br>
+    <img *ngIf="speaker.profilePic" [src]="speaker.profilePic" [alt]="speaker.name"><br>
+
+    <img *ngIf="!speaker.profilePic" src="assets/img/sin_foto.png"><br>
 
     <button *ngIf="speaker.twitter != ''" ion-button icon-only clear small color="twitter"  (click)="goToSpeakerTwitter(speaker)">
       <ion-icon name="logo-twitter"></ion-icon>
