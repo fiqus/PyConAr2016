@@ -19,15 +19,15 @@
 
   <p>{{session.description}}</p>
   <div *ngIf="voteEnabled">
-    <p>Vota que te pareció la charla:</p>
-    <div *ngIf="voteEnabled">
+    <p *ngIf="canVote">Vota que te pareció la charla:</p>
+    <div >
       <ion-icon name="star" *ngFor="let number of [1,2,3,4,5]" (click)="setVote(number)" [class.yellow-star]="voteMade && voteMade >= number" class="star"></ion-icon>
-      <p>
+      <p *ngIf="canVote">
         <button ion-button (click)="voteTalk()">VOTAR</button>
       </p>
     </div>
   </div>
-  <div *ngIf="!voteEnabled && session.kind === 'charla'">
+  <div *ngIf="!canVote && session.kind === 'charla'">
     Tu voto fue registrado, muchas gracias.
   </div>
     <div *ngIf="error">
