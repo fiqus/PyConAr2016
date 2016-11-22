@@ -1,1 +1,1298 @@
-{"map": [{"lat": -38.7196638, "lng": -62.269189, "name": "Club de emprendedores de Bah\u00eda Blanca (Viernes 25)", "center": true}, {"lat": -38.7196938, "lng": -62.2699801, "name": "Sal\u00f3n de los Fundadores de la UNS (Viernes 25)"}, {"lat": -38.6954712, "lng": -62.2564776, "name": "Complejo Palihue - UNS (S\u00e1bado 26 y Domingo 27)"}], "speakers": [{"twitter": "", "profilePic": "", "name": ""}, {"twitter": "", "profilePic": "", "name": ""}, {"twitter": "", "profilePic": "", "name": ""}, {"twitter": "areq", "profilePic": "", "name": "Agustin"}, {"twitter": "agustinbenassi", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/DSC00288_low_quality.jpg", "name": "Agust\u00edn Benassi (Beni)"}, {"twitter": "", "profilePic": "", "name": "Ariel Farkas"}, {"twitter": "asnramos", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/ARIEL-SILVIO-NORBERTO-RAMOS.jpg", "name": "Ariel Silvio"}, {"twitter": "alanAsmis", "profilePic": "", "name": "Asmis Alan"}, {"twitter": "bel_walter", "profilePic": "", "name": "Bel Walter"}, {"twitter": "vrunoa", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/12308258_10208104421431645_1117766459920535970_n.jpg", "name": "Bruno Alassia"}, {"twitter": "RTFMCelia", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Celia_Cintas.png", "name": "Celia Cintas"}, {"twitter": "", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/claudio_color-1.jpg", "name": "Claudio Freire"}, {"twitter": "cynpy", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/cyn.jpg", "name": "Cynthia Monastirsky"}, {"twitter": "", "profilePic": "", "name": "David Garoz"}, {"twitter": "dcanizares", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/1503965_10153249251919427_1756086513220248124_n.jpg", "name": "Diego G. Ca\u00f1izares"}, {"twitter": "diegoram", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/foto.jpeg", "name": "Diego Ramirez"}, {"twitter": "edvm", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/avatar_G0HKmG8.jpg", "name": "Emiliano Dalla Verde Marcozzi"}, {"twitter": "facundobatista", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/facundobatista.jpeg", "name": "Facundo Batista"}, {"twitter": "fedebrest", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/perfil.jpg", "name": "Fede Brest"}, {"twitter": "fmasanori", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Fernando_Masanori_O_Globo.jpg", "name": "FERNANDO MASANORI ASHIKAGA"}, {"twitter": "fisadev", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/vanguard.png", "name": "Fisa (Juan Pedro Fisanotti)"}, {"twitter": "freedomfn", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/14882241_10207692620613161_5171427483182706693_o.jpg", "name": "Flor Novidelsky"}, {"twitter": "_alfacentauri", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/pic.png", "name": "Gabriel Acosta"}, {"twitter": "", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Gerva.png", "name": "Gervasio Calder\u00f3n"}, {"twitter": "HoracioNakama", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/vBhuN5ta.jpeg", "name": "Horacio Mayo"}, {"twitter": "", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/ME.jpeg", "name": "Ignacio Fiorentino"}, {"twitter": "nacho_hrdia", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/profile2.jpg", "name": "Ignacio Heredia"}, {"twitter": "fabularcierto", "profilePic": "", "name": "Javier Derderyan"}, {"twitter": "", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/1b5ed78.jpg", "name": "Javier Mansilla"}, {"twitter": "jeanntorrez", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/fotojeanperfil.png", "name": "Jeannette Torrez"}, {"twitter": "j_e_d", "profilePic": "", "name": "j_e_d"}, {"twitter": "_joac", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/color_corrected_profile.jpg", "name": "Joaqu\u00edn Sorianello"}, {"twitter": "jorge_h_namour", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/fotoJorge.jpg", "name": "Jorge Namour"}, {"twitter": "skajms", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/ska_LwxZMpJ.jpg", "name": "Juan Manuel Schillaci"}, {"twitter": "_luchorossi", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/lukio.jpg", "name": "Luciano Rossi (lukio)"}, {"twitter": "reydelhumo", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/avatar_reydelhumo.jpg", "name": "Manuel Kaufmann"}, {"twitter": "", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/117318.png", "name": "Mariano Lambir"}, {"twitter": "alderetemartin", "profilePic": "", "name": "Martin Alderete (malderete)"}, {"twitter": "meliascosta", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/equipo-mec.png", "name": "Martin Elias Costa"}, {"twitter": "", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/image.png", "name": "Martin Ribelotta"}, {"twitter": "", "profilePic": "", "name": "Miguel Barraza"}, {"twitter": "d3f0", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/europython.jpg", "name": "Nahuel Defoss\u00e9"}, {"twitter": "gilgamezh", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/nico_web_2015.jpg", "name": "Nicol\u00e1s Demarchi (GiLgAmEzH)"}, {"twitter": "cocodibuja", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/1tqmV9gE.jpg", "name": "Nicolas Quiroz"}, {"twitter": "nah_omy", "profilePic": "", "name": "Noemi Ticona Angles"}, {"twitter": "", "profilePic": "", "name": "Pablo Navarro"}, {"twitter": "pk_pacheco", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/IMG_8501.JPG", "name": "Paola Katherine"}, {"twitter": "Rafa_Carrascosa", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/sandia.jpg", "name": "Rafael Carrascosa"}, {"twitter": "ralsina", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/yo.jpg", "name": "Roberto Alsina"}, {"twitter": "sebastianbrachi", "profilePic": "", "name": "Sebastian Brachi"}, {"twitter": "sebastianmarro", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/foto250.png", "name": "Sebasti\u00e1n Marr\u00f3"}, {"twitter": "Aun_Siro", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Siro.jpg", "name": "Siro Moreno"}, {"twitter": "lriccombene", "profilePic": "", "name": "SLAM Lucas"}, {"twitter": "entrerrianas", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/tux.png", "name": "Sofia Martin"}, {"twitter": "argenpython", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/argentinaenpython-fondoblanco.png", "name": "Taller de programaci\u00f3n para mujeres Django Girls, Bah\u00eda Blanca."}, {"twitter": "viniciuspach", "profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/AAEAAQAAAAAAAAVyAAAAJDMzZTg2ODlmLTNjOTAtNGEzNC04NDhiLTA1NWIxOGRlNDRlYQ.jpg", "name": "Vinicius Feitosa Pacheco"}], "schedule": [{"date": "2016-11-25", "groups": [{"sessions": [{"timeStart": "8:00 AM", "kind": "libre", "location": "Auditorio, Cowork rojo, Cowork azul", "tags": "", "timeEnd": "8:30 AM", "name": "Slot"}, {"kind": "taller", "description": "\u00a1Queremos animar a m\u00e1s mujeres a dominar la web! Es por eso que desde [Argentina en Python](http://bit.ly/argenpy) en conjunto con [Django Girls Mendoza](http://bit.ly/dg-mdz) organizamos un taller donde creas tu propio sitio web desde cero en 1 d\u00eda. Utilizaremos herramientas que un programador profesional utiliza diariamente de una manera muy sencilla. \r\n\r\n**\u00a1Es hora de aprender a programar!**", "name": "Taller de Programaci\u00f3n para Mujeres Django Girls", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/30/", "timeEnd": "7:00 PM", "speakerNames": ["Taller de programaci\u00f3n para mujeres Django Girls, Bah\u00eda Blanca."], "timeStart": "8:00 AM", "location": "Sal\u00f3n \"Fundadores\"", "cancelled": false, "audience_level": "Inicial"}, {"timeStart": "8:30 AM", "kind": "acreditaciones", "location": "Auditorio, Cowork rojo, Cowork azul", "tags": "", "timeEnd": "9:00 AM", "name": "Slot"}], "time": "8:00 AM"}, {"sessions": [{"kind": "charla", "description": "Vamos a aprender a hacer aplicaciones con Interf\u00e1z Gr\u00e1fica de Usuario utilizando Python y Qt. Haremos un tour por los elementos b\u00e1sicos y m\u00e1s usados de \u00e9ste framework.", "name": "El Tour de PyQt", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/21/", "timeEnd": "10:00 AM", "speakerNames": ["Gabriel Acosta"], "timeStart": "9:00 AM", "location": "Auditorio", "cancelled": false, "audience_level": "Inicial"}, {"timeStart": "9:00 AM", "kind": "sprints", "location": "Cowork rojo", "tags": "", "timeEnd": "12:00 PM", "name": "Slot"}, {"timeStart": "9:00 AM", "kind": "sprints", "location": "Cowork azul", "tags": "", "timeEnd": "12:00 PM", "name": "Slot"}], "time": "9:00 AM"}, {"sessions": [{"kind": "charla", "description": "Code-cropper extrae comportamiento de c\u00f3digo Python live, generando un programa equivalente reducido a funciones o clases de inter\u00e9s. Puede servir para simplificar un programa, generar Unit-tests, auditor\u00eda, mocking, etc.\r\nSe usan:\r\n\r\n * metaprogramaci\u00f3n\r\n\r\n * formato Json para el grafo de llamadas\r\n\r\n * colas multithreading\r\n\r\n * generaci\u00f3n de c\u00f3digo\r\n\r\nhttps://github.com/GervasioCalderon/code-cropper/", "name": "Code-cropper: c\u00f3digo que genera c\u00f3digo m\u00e1s simple", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/45/", "timeEnd": "11:00 AM", "speakerNames": ["Gervasio Calder\u00f3n"], "timeStart": "10:00 AM", "location": "Auditorio", "cancelled": false, "audience_level": "Avanzado"}], "time": "10:00 AM"}, {"sessions": [{"kind": "charla", "description": "Como transformar tu proyecto Django en un proveedor de OpenID Connect para permitir a distintas aplicaciones, sin importar la tecnolog\u00eda, verificar la identidad de tus usuarios. Utilizando el paquete django-oidc-provider.", "name": "OpenID Connect Provider en segundos con Django", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/22/", "timeEnd": "12:00 PM", "speakerNames": ["Ignacio Fiorentino"], "timeStart": "11:00 AM", "location": "Auditorio", "cancelled": false, "audience_level": "Avanzado"}], "time": "11:00 AM"}, {"sessions": [{"timeStart": "12:00 PM", "kind": "almuerzo", "location": "Auditorio, Cowork rojo, Cowork azul", "tags": "", "timeEnd": "1:00 PM", "name": "Slot"}], "time": "12:00 PM"}, {"sessions": [{"kind": "charla", "description": "Introducci\u00f3n a documentaci\u00f3n de APIs ReST con [Swagger](http://swagger.io/) y c\u00f3mo podemos sacarle el jugo con Python", "name": "Ponele un poco de swag a tus APIs", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/7/", "timeEnd": "2:00 PM", "speakerNames": ["Cynthia Monastirsky"], "timeStart": "1:00 PM", "location": "Auditorio", "cancelled": false, "audience_level": "Avanzado"}, {"timeStart": "1:00 PM", "kind": "sprints", "location": "Cowork rojo", "tags": "", "timeEnd": "6:00 PM", "name": "Slot"}, {"timeStart": "1:00 PM", "kind": "sprints", "location": "Cowork azul", "tags": "", "timeEnd": "6:00 PM", "name": "Slot"}], "time": "1:00 PM"}, {"sessions": [{"kind": "charla", "description": "Kivy es un framework para crear apliocaciones para computadoras y m\u00f3viles. Hace poco tiempo empec\u00e9 a trabajar con este framework, si bien nunca hab\u00eda programado para m\u00f3viles ya que no pod\u00eda hacerlo en Python, no fue dif\u00edcil el comienzo de su utilizaci\u00f3n. A medida que la app iba requiriendo caracter\u00edsticas m\u00e1s avanzadas fui experimentando  inconvenientes.", "name": "Poni\u00e9ndonos un poco mas serio con Kivy", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/42/", "timeEnd": "3:00 PM", "speakerNames": ["Sofia Martin", "Ariel Farkas"], "timeStart": "2:00 PM", "location": "Auditorio", "cancelled": false, "audience_level": "Avanzado"}], "time": "2:00 PM"}, {"sessions": [{"kind": "charla", "description": "Mi experiencia haciendo m\u00e1s de 20 bots para Twitter (con distintos grados de complejidad, utilidad y popularidad) usando Python y como pod\u00e9s hacer el tuyo (con o sin Python).", "name": "Twitter bots con o sin Python", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/44/", "timeEnd": "4:00 PM", "speakerNames": ["j_e_d"], "timeStart": "3:00 PM", "location": "Auditorio", "cancelled": false, "audience_level": "Inicial"}], "time": "3:00 PM"}, {"sessions": [{"kind": "charla", "description": "Muchos habremos comprado una raspberry Pi y la terminamos guardando en un caj\u00f3n!\r\nEl ecosistema de esta linda amiguita ha evolucionado enormemente y le podemos sacar el jugo, con el uso de 2 o tres modulos geniales para hacer IOT, robotica y domotica.", "name": "Desempolvando mi vieja raspberryPi", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/16/", "timeEnd": "5:00 PM", "speakerNames": ["Diego Ramirez"], "timeStart": "4:00 PM", "location": "Auditorio", "cancelled": false, "audience_level": "Inicial"}], "time": "4:00 PM"}, {"sessions": [{"kind": "charla", "description": "\u00bfCu\u00e1ntas tuviste que escalar, con multiprocessing, o tu framework favorito?\r\n\u00bfNotaste que los requisitos de memoria se te iban a las nubes?\r\nPresentar\u00e9 una lib reci\u00e9n salida de la panader\u00eda, *sharedbuffers*, y \r\nlas t\u00e9cnicas y conceptos detr\u00e1s de la misma. C\u00f3mo crear segmentos de\r\nmemoria compartida, c\u00f3mo usarlos para compartir objetos y estructuras complejas,\r\ne incluso que no entran en memoria.", "name": "Compartiendo memoria eficientemente con proxies", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/36/", "timeEnd": "6:00 PM", "speakerNames": ["Claudio Freire"], "timeStart": "5:00 PM", "location": "Auditorio", "cancelled": false, "audience_level": "Intermedio"}], "time": "5:00 PM"}, {"sessions": [{"timeStart": "6:00 PM", "kind": "libre", "location": "Auditorio, Cowork rojo, Cowork azul", "tags": "", "timeEnd": "7:00 PM", "name": "Slot"}], "time": "6:00 PM"}, {"sessions": [{"kind": "taller", "description": "En este taller exploraremos cu\u00e1l es el v\u00ednculo entre los derechos humanos y el cifrado desde distintos ejes:\r\nsu importancia para la protecci\u00f3n y promoci\u00f3n de los derechos (a la privacidad, la libertad de expresi\u00f3n, de pensamiento, de reuni\u00f3n y asociaci\u00f3n);\r\ncu\u00e1les son los conflictos actuales entre el cifrado para la protecci\u00f3n de nuestras comunicaciones y dispositivos y la necesidad del Estado de investigar el delito;\r\nqu\u00e9 podemos hacer para cambiar la situaci\u00f3n actual del cifrado como una herramienta de \"lujo\" a la cual pocas personas pueden acceder;\r\npor qu\u00e9 es importante que la comunidad t\u00e9cnica se involucre en estos debates;\r\nla importancia de que todos los ciudadanos protejan sus comunicaciones y dispositivos.\r\nPoner en com\u00fan cuales son los desaf\u00edos que atraviesa la comunidad t\u00e9cnica en la implementaci\u00f3n de tecnolog\u00edas que pueden poner en riesgo derechos fundamentales de los ciudadanos.\r\n\r\nEl formato del taller es sencillo y pretende ser una conversaci\u00f3n en la cual les pediremos a los participantes que nos puedan brindar su visi\u00f3n acerca de los ejes planteados.\r\nPara garantizar una mejor participaci\u00f3n de los asistentes, en el encuentro utilizaremos las reglas de Chatham House. La regla dispone que las personas que asisten a un seminario/taller/encuentro pueden discutir los resultados del seminario en el mundo exterior, pero no pueden discutir qui\u00e9n asisti\u00f3 o identificar lo que dijo un individuo espec\u00edfico. El objetivo es facilitar la discusi\u00f3n franca y honesta sobre temas de inter\u00e9s.", "name": "Meetup \"Defendiendo nuestros derechos humanos en la era digital: el rol del cifrado\"", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/35/", "timeEnd": "9:00 PM", "speakerNames": ["Jeannette Torrez"], "timeStart": "7:00 PM", "location": "Auditorio", "cancelled": false, "audience_level": "Avanzado"}, {"timeStart": "7:00 PM", "kind": "libre", "location": "Cowork rojo, Cowork azul, Sal\u00f3n \"Fundadores\"", "tags": "", "timeEnd": "9:00 PM", "name": "Slot"}], "time": "7:00 PM"}]}, {"date": "2016-11-26", "groups": [{"sessions": [{"timeStart": "9:00 AM", "kind": "acreditaciones", "location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "9:30 AM", "name": "Slot"}, {"timeStart": "9:30 AM", "kind": "Apertura", "location": "Ada Lovelace", "tags": "", "timeEnd": "10:00 AM", "name": "Slot"}, {"timeStart": "9:30 AM", "kind": "libre", "location": "Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "10:00 AM", "name": "Slot"}], "time": "9:00 AM"}, {"sessions": [{"kind": "charla", "description": "Tryton (www.tryton.org) ofrece todas las funcionalidades necesarias de una plataforma de desarrollo de aplicaciones libre completa: persistencia de datos, extensa modularidad, administraci\u00f3n de usuarios (autenticaci\u00f3n, control detallado de acceso a los datos, manejo concurrente a recursos), flujos de trabajo y motores de reportes, servicios web e internacionalizaci\u00f3n. \u00a1Desarrollando con Tryton!", "name": "Desarrollando aplicaciones con el framework Tryton", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/43/", "timeEnd": "11:00 AM", "speakerNames": ["Luciano Rossi (lukio)", "Sebasti\u00e1n Marr\u00f3"], "timeStart": "10:00 AM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "Experiencia portando Micropython a la EDU-CIAA. Una vision rapida a los intestinos desde la experiencia de un port real.", "name": "Micropython en EDU-CIAA", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/15/", "timeEnd": "11:00 AM", "speakerNames": ["Martin Ribelotta"], "timeStart": "10:00 AM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "taller", "description": "En este taller veremos una gentil introducci\u00f3n al mundo de deep learning desde Python con la ayuda de Lasagne, Numpy, Pandas y OpenCV de la mano de nuestras naves favoritas de Star Wars. En este tutorial caminaremos por el pipeline, comenzando desde la adquisici\u00f3n de datos, su preparaci\u00f3n, construcci\u00f3n de ConvNets, entrenamiento y evaluaci\u00f3n, con el fin de clasificar distintos tipos de naves!", "name": "Introducci\u00f3n a deep learning con Python: El despertar de la fuerza (1ra parte)", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/14/", "timeEnd": "1:00 PM", "speakerNames": ["Celia Cintas"], "timeStart": "10:00 AM", "location": "Cecilia T. de Berdichevsky", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "taller", "description": "Un futuro Ingeniero Agronomo mostrando los inicios en Python sin saber programar: que hay que saber al inicio, las herramientas que m\u00e1s le sirvieron y como lo aplica a su trabajo cient\u00edfico y agron\u00f3mico.", "name": "Como empezar de cero en Python: Torciendo la curva de aprendizaje", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/29/", "timeEnd": "11:00 AM", "speakerNames": ["Horacio Mayo"], "timeStart": "10:00 AM", "location": "Margaret Hamilton", "cancelled": false, "audience_level": "Inicial"}], "time": "10:00 AM"}, {"sessions": [{"kind": "charla", "description": "Un ejemplo de \"Infraestructura as code\". Docker desde el desarrollo a producci\u00f3n usando gitlab y Rancher.", "name": "Infraestrucura como c\u00f3digo. Docker en todos lados", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/6/", "timeEnd": "12:00 PM", "speakerNames": ["Nicol\u00e1s Demarchi (GiLgAmEzH)"], "timeStart": "11:00 AM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "Explicaci\u00f3n de distintos aspectos del lenguaje que traen dolores de cabeza hasta entenderlos.", "name": "Bindings, default mutable arguments, y otros quilom... detalles", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/1/", "timeEnd": "12:00 PM", "speakerNames": ["Facundo Batista"], "timeStart": "11:00 AM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "taller", "description": "Haremos un recorrido desde las fuentes de datos hasta las herramientas que nos permiten explotarlos anal\u00edticamente. Vamos a contarles qu\u00e9 es un Portal de Datos Abiertos, qu\u00e9 APIs interesantes exponen datos y c\u00f3mo aprovechar herramientas como Jupyter, pandas, matplotlib, numpy y scipy para darles valor agregado.", "name": "An\u00e1lisis de Datos Abiertos en Python + Jupyter", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/32/", "timeEnd": "1:00 PM", "speakerNames": ["Ignacio Heredia", "Agust\u00edn Benassi (Beni)", "Martin Elias Costa"], "timeStart": "11:00 AM", "location": "Margaret Hamilton", "cancelled": false, "audience_level": "Avanzado"}], "time": "11:00 AM"}, {"sessions": [{"kind": "charla", "description": "Me gustar\u00eda contarles mi experiencia sobre c\u00f3mo logramos vincular las disciplinas de ingenier\u00eda, medicina y programaci\u00f3n (Python). Donde desarrollamos una Red Neuronal Artificial que fue validada contra un paper publicado previamente por dos investigadores importantes en el campo de la neurociencia, adem\u00e1s lo presentamos en formato en unos de los Congresos de Sociedad Argentina de Neurociencias.", "name": "Vinculando la medicina y la ingenier\u00eda mediante Python", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/11/", "timeEnd": "1:00 PM", "speakerNames": ["Nicolas Quiroz"], "timeStart": "12:00 PM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Inicial"}, {"kind": "charla", "description": "En esta charla veremos como implementar una simple aplicaci\u00f3n de l\u00ednea de comandos con opciones m\u00faltiples y variadas, usando Docopt. Docopt es una librer\u00eda Python que permite parsear opciones en una cli, describiendo de manera natural la interfaz como si se tratara de un help.", "name": "Docopt - Option parser para seres humanos", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/19/", "timeEnd": "1:00 PM", "speakerNames": ["Juan Manuel Schillaci"], "timeStart": "12:00 PM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Inicial"}], "time": "12:00 PM"}, {"sessions": [{"timeStart": "1:00 PM", "kind": "almuerzo", "location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "2:00 PM", "name": "Slot"}], "time": "1:00 PM"}, {"sessions": [{"kind": "taller", "description": "En este taller veremos una gentil introducci\u00f3n al mundo de deep learning desde Python con la ayuda de Lasagne, Numpy, Pandas y OpenCV de la mano de nuestras naves favoritas de Star Wars. En este tutorial caminaremos por el pipeline, comenzando desde la adquisici\u00f3n de datos, su preparaci\u00f3n, construcci\u00f3n de ConvNets, entrenamiento y evaluaci\u00f3n, con el fin de clasificar distintos tipos de naves!", "name": "Introducci\u00f3n a deep learning con Python: El despertar de la fuerza (2da parte)", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/47/", "timeEnd": "3:30 PM", "speakerNames": ["Celia Cintas"], "timeStart": "2:00 PM", "location": "Cecilia T. de Berdichevsky", "cancelled": false, "audience_level": "Avanzado"}, {"timeStart": "2:00 PM", "kind": "plenaria", "location": "Ada Lovelace", "tags": "", "timeEnd": "3:00 PM", "name": "<span class=\"title\">\r\nKeynote\r\n</span>\r\n<span class=\"title\">\r\n<a href=\"/#fernando\">Fernando Schapachnik</a>\r\n</span>"}, {"kind": "taller", "description": ".:.Pygame desde CERO.:. es un taller destinado al p\u00fablico en general. Daremos un recorrido desde la historia de Python, SDL y Pygame, pasando por el uso e implementaci\u00f3n de varias funcionalidades de Pygame (crear ventana, insertar, mover, girar y colisionar objetos), adem\u00e1s, desarrollaremos entre todos los presentes el famoso juego \u201cSnake\u201d utilizando una plantilla para manejo de multiples pantalla", "name": "Pygame desde CERO", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/33/", "timeEnd": "5:00 PM", "speakerNames": ["Jorge Namour"], "timeStart": "2:00 PM", "location": "Margaret Hamilton", "cancelled": false, "audience_level": "Inicial"}, {"timeStart": "2:00 PM", "kind": "libre", "location": "Grace Hopper", "tags": "", "timeEnd": "3:00 PM", "name": "Slot"}], "time": "2:00 PM"}, {"sessions": [{"kind": "charla", "description": "En esta charla contaremos c\u00f3mo implementamos una herramienta en Python que permite categorizar de forma sugerida (mediante aprendizaje autom\u00e1tico), y reconocer tem\u00e1ticas repetidas (mediante procesamiento del lenguaje natural) aplicado al manejo de informaci\u00f3n de los informes mensuales que env\u00eda el Congreso Nacional al Poder Ejecutivo.", "name": "Procesamiento del Lenguaje Natural en el Congreso de la Naci\u00f3n", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/20/", "timeEnd": "4:00 PM", "speakerNames": ["Ignacio Heredia", "Martin Elias Costa"], "timeStart": "3:00 PM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "Una breve y amable introducci\u00f3n a Flask, tratando de entender c\u00f3mo y porqu\u00e9 es una buena soluci\u00f3n a problemas comunes, versus otras alternativas existentes en el mercado, tal vez m\u00e1s populares y renombradas.", "name": "El tama\u00f1o no importa: Flask, un gran microframework", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/17/", "timeEnd": "4:00 PM", "speakerNames": ["Diego G. Ca\u00f1izares"], "timeStart": "3:00 PM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Inicial"}, {"kind": "taller", "description": "Ejemplos practicos de Micropython usando las placas EDU-CIAA", "name": "Micropython en CIAA", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/28/", "timeEnd": "5:00 PM", "speakerNames": ["Martin Ribelotta"], "timeStart": "3:30 PM", "location": "Cecilia T. de Berdichevsky", "cancelled": false, "audience_level": "Inicial"}], "time": "3:00 PM"}, {"sessions": [{"kind": "charla", "description": "Las redes neuronales son hoy en d\u00eda uno de los modelos de Machine Learning que est\u00e1 generando los mejores resultados para problemas complejos, con muchas grandes compa\u00f1\u00edas impulsando su avance. En esta charla haremos una introducci\u00f3n a Keras, paquete para hacer y entrenar redes neuronales en Python con TensorFlow como backend.", "name": "Redes neuronales con Python utilizando Keras", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/4/", "timeEnd": "5:00 PM", "speakerNames": ["Fisa (Juan Pedro Fisanotti)"], "timeStart": "4:00 PM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "En la charla vamos a ver y anaalizar distintos esquemas de concurrencia disponibles en Python.\r\nSe mostrar\u00e1 el uso de Threads, multiprocessing y cooperative multitasking (gevent y asyncio).\r\nTambien charlaremos sobre cuestiones internas de CPython como el GIL.", "name": "Concurrencia en Python", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/2/", "timeEnd": "5:00 PM", "speakerNames": ["Martin Alderete (malderete)"], "timeStart": "4:00 PM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Avanzado"}], "time": "4:00 PM"}, {"sessions": [{"timeStart": "5:00 PM", "kind": "Merienda / Proyecci\u00f3n documental \"Net of Rights\"", "location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "5:30 PM", "name": "Slot"}, {"timeStart": "5:30 PM", "kind": "Charlas rel\u00e1mpago", "location": "Ada Lovelace", "tags": "", "timeEnd": "6:30 PM", "name": "Slot"}, {"timeStart": "5:30 PM", "kind": "libre", "location": "Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "7:30 PM", "name": "Slot"}], "time": "5:00 PM"}, {"sessions": [{"timeStart": "6:30 PM", "kind": "plenaria", "location": "Ada Lovelace", "tags": "", "timeEnd": "7:30 PM", "name": "<span class=\"title\">\r\nKeynote\r\n</span>\r\n<span class=\"title\">\r\n<a href=\"/#angel\">\u00c1ngel Medinilla</a>\r\n</span>"}], "time": "6:00 PM"}]}, {"date": "2016-11-27", "groups": [{"sessions": [{"kind": "charla", "description": "En esta charla se presentar\u00e1n los proyectos m\u00e1s significativos del stack de data science en Python. Se mecionar\u00e1n herramientas de visualizaci\u00f3n, machine learning, c\u00f3mputo distribuido, etc.", "name": "Data Science en Python, una guia de proyectos y herramientas", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/18/", "timeEnd": "11:00 AM", "speakerNames": ["Rafael Carrascosa"], "timeStart": "10:00 AM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Inicial"}, {"kind": "charla", "description": "PyLadies en el Brazil, como un de los fatores para tener 42% de mujeres speaker's, en la ultima PyCon\r\nImplementamos el C\u00f3digo de Conduta, como explicado en https://www.coc-handbook.com/ \r\nAcertos y errores, en la pr\u00e1ctica, do ponto de vista de un miembro del time de respuesta.\r\nExplicaci\u00f3n del Manifesto Pybr12: sticker con los principios de inclusi\u00f3n de la conferencia 2016", "name": "import pybr12: experiencias de inclusi\u00f3n en la \u00faltima PyCon Brazil", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/23/", "timeEnd": "11:00 AM", "speakerNames": ["FERNANDO MASANORI ASHIKAGA", "Paola Katherine"], "timeStart": "10:00 AM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Inicial"}, {"kind": "taller", "description": "Taller orientado a la programaci\u00f3n de aplicaciones m\u00f3viles con Kivy.", "name": "Programaci\u00f3n M\u00f3vil con Python (Kivy)", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/27/", "timeEnd": "1:00 PM", "speakerNames": ["Nahuel Defoss\u00e9"], "timeStart": "10:00 AM", "location": "Cecilia T. de Berdichevsky", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "taller", "description": "Taller para No Videntes usando las alternativas: NVDA en windows, y ORCA en linux, aplicaciones desarrolladas con Software Libre y en Python.\r\nA partir del uso de estos lectores de pantalla los introducimos en el fant\u00e1stico mundo de la programaci\u00f3n.\r\nUsando Python, claro est\u00e1!", "name": "Taller de programaci\u00f3n para No Videntes", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/46/", "timeEnd": "1:00 PM", "speakerNames": ["Ariel Silvio", "Miguel Barraza"], "timeStart": "10:00 AM", "location": "Margaret Hamilton", "cancelled": false, "audience_level": "Inicial"}], "time": "10:00 AM"}, {"sessions": [{"kind": "charla", "description": "Forefer alone?!... No con Python! En esta charla te muestro como programar un bot que sepa responder las preguntas que hacen tus usuarios.", "name": "Programando bots charlatanes", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/9/", "timeEnd": "12:00 PM", "speakerNames": ["Emiliano Dalla Verde Marcozzi"], "timeStart": "11:00 AM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "El objetivo de esta charla es introducir conceptos de [django chanels](https://github.com/django/channels), con ejemplos simples, culminando en el desarrollo de una version \"multijugador\" del clasico juego snake, que podra ser controlada por los asistentes desde sus celulares/notebooks/etc", "name": "Django Channels - Armemos un 'snake' multijugador", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/3/", "timeEnd": "12:00 PM", "speakerNames": ["Mariano Lambir"], "timeStart": "11:00 AM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Avanzado"}], "time": "11:00 AM"}, {"sessions": [{"kind": "charla", "description": "Una invitaci\u00f3n a explorar y sumergirse a bucear por las profundidades del aprendizaje autom\u00e1tico.", "name": "Deep learning: Aprendiendo con la Escafandra", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/26/", "timeEnd": "1:00 PM", "speakerNames": ["Javier Mansilla"], "timeStart": "12:00 PM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Intermedio"}, {"kind": "charla", "description": "Jugar no es lo \u00fanico que se puede hacer con los video juegos. Desde los primeros juegos, artistas y programadores exploran su funcionamiento interno para crear nuevas experiencias. En esta charla, Python se usa junto con la 3d suite open source Blender para modificar juegos, mostrando lo sencillo que puede ser, qu\u00e9 habilidades se necesitan y por qu\u00e9 Python es una gran herramienta para este uso.", "name": "Modding de Video Juegos con Python y Blender", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/13/", "timeEnd": "1:00 PM", "speakerNames": ["Sebastian Brachi"], "timeStart": "12:00 PM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Inicial"}], "time": "12:00 PM"}, {"sessions": [{"timeStart": "1:00 PM", "kind": "almuerzo", "location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "2:00 PM", "name": "Slot"}], "time": "1:00 PM"}, {"sessions": [{"kind": "charla", "description": "El Psicoan\u00e1lisis y la Programaci\u00f3n parecen ir por 2 v\u00edas distintas.\r\nHasta que vemos la principal la herramienta que las 2 disciplinas utilizan: El Lenguaje.\r\n\r\nEn esta charla dar\u00e9 una introducci\u00f3n b\u00e1sica a lo que con del Psicoan\u00e1lisis que podemos utilizar en el d\u00eda a d\u00eda, y que no solamente nos ayuda a mejorar el \"c\u00f3digo\", sino que apunta a el origen de todo problema -y soluci\u00f3n-: el sujeto.", "name": "\"Psycoan\u00e1lisis\" de Sistemas", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/24/", "timeEnd": "3:00 PM", "speakerNames": ["Javier Derderyan"], "timeStart": "2:00 PM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "Gevent es una grande herramienta para la creaci\u00f3n de workers e proceso as\u00edncrono. Nesta charla vamos ver como empezamos, conceptos basicos de as\u00edncronismo y como trabajar con Gevent en un caso real.", "name": "Introducci\u00f3n al Gevent", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/10/", "timeEnd": "3:00 PM", "speakerNames": ["Vinicius Feitosa Pacheco"], "timeStart": "2:00 PM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Inicial"}, {"kind": "taller", "description": "Este taller esta pensado para que juntos podamos crear una aplicaci\u00f3n utilizando el framework Tryton desde cero. Tendr\u00e1s la posibilidad de r\u00e1pidamente aprender los conceptos m\u00e1s importantes a la hora de hacer tu propio m\u00f3dulo. Como frutilla del postre, haremos una mini integraci\u00f3n con otra aplicaci\u00f3n.", "name": "Creando mi primera aplicaci\u00f3n con el framework Tryton", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/34/", "timeEnd": "4:00 PM", "speakerNames": ["Luciano Rossi (lukio)", "Sebasti\u00e1n Marr\u00f3"], "timeStart": "2:00 PM", "location": "Cecilia T. de Berdichevsky", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "\u00bfAlguna vez so\u00f1aste con viajar y trabajar? \u00bfen dejarlo todo y perseguir tu sue\u00f1o? \u00bfo llevar la programaci\u00f3n a los lugares m\u00e1s rec\u00f3nditos? En esta charla hablar\u00e9 sobre la experiencia de llevar Python a m\u00e1s de 100 ciudades en 8 pa\u00edses de Latinoam\u00e9rica durante los \u00faltimos 3 a\u00f1os. Peque\u00f1as historias, \u00e9xitos y fracasos, eventos realizados y la gran comunidad Python ser\u00e1n los t\u00f3picos de esta charla.", "name": "Argentina en Python: comunidad, sue\u00f1os, viajes y aprendizaje", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/39/", "timeEnd": "3:00 PM", "speakerNames": ["Manuel Kaufmann"], "timeStart": "2:00 PM", "location": "Margaret Hamilton", "cancelled": false, "audience_level": "Inicial"}], "time": "2:00 PM"}, {"sessions": [{"kind": "charla", "description": "Hace m\u00e1s de 20 a\u00f1os que desarrollo software libre. Y as\u00ed y todo sigo. Algo debo estar haciendo bien (o no).\r\n\r\nDesarrollo de software, creaci\u00f3n de comunidad, manejo de proyectos y evitar quemarse la cabeza: una historia de amor.", "name": "Como desarrollar software libre (o no) y no morir en el intento (o no)", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/5/", "timeEnd": "4:00 PM", "speakerNames": ["Roberto Alsina"], "timeStart": "3:00 PM", "location": "Ada Lovelace", "cancelled": false, "audience_level": "Avanzado"}, {"kind": "charla", "description": "Se mostrar\u00e1 c\u00f3mo crear soluciones paralelas e independientes al hardware (CPUs, DSP, FPGAs y GPUs) utilizando PyOpenCL. Veremos una breve introducci\u00f3n a conceptos b\u00e1sicos: arquitecturas, tipos de memoria y modelos de ejecuci\u00f3n. Luego implementaremos el pipeline b\u00e1sico de una aplicaci\u00f3n con PyOpenCL y resolveremos problemas desde simples operaciones con matrices hasta proc. de im\u00e1genes.", "name": "Introducci\u00f3n a  programaci\u00f3n paralela con PyOpenCL", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/8/", "timeEnd": "4:00 PM", "speakerNames": ["Celia Cintas"], "timeStart": "3:00 PM", "location": "Grace Hopper", "cancelled": false, "audience_level": "Inicial"}, {"kind": "charla", "description": "Tradicionalmente, el proceso de selecci\u00f3n de lugares \u00f3ptimos para desplegar las nuevas antenas a\u00f1o a a\u00f1o generaba circulaci\u00f3n de informaci\u00f3n preprocesada y agregada, de alto nivel, desde or\u00edgenes diferentes.", "name": "Modelo de Optimizaci\u00f3n de Despliegue de Redes m\u00f3viles con Python y Spark", "tags": "", "conf_url": "http://ar.pycon.org/schedule/presentation/48/", "timeEnd": "4:00 PM", "speakerNames": ["Flor Novidelsky", "David Garoz"], "timeStart": "3:00 PM", "location": "Margaret Hamilton", "cancelled": false, "audience_level": "Avanzado"}], "time": "3:00 PM"}, {"sessions": [{"timeStart": "4:00 PM", "kind": "Merienda / Proyecci\u00f3n documental \"Net of Rights\"", "location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "4:30 PM", "name": "Slot"}, {"timeStart": "4:30 PM", "kind": "libre", "location": "Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton", "tags": "", "timeEnd": "7:00 PM", "name": "Slot"}, {"timeStart": "4:30 PM", "kind": "Charlas rel\u00e1mpago", "location": "Ada Lovelace", "tags": "", "timeEnd": "5:30 PM", "name": "Slot"}], "time": "4:00 PM"}, {"sessions": [{"timeStart": "5:30 PM", "kind": "plenaria", "location": "Ada Lovelace", "tags": "", "timeEnd": "6:30 PM", "name": "<span class=\"title\">\r\nKeynote\r\n</span>\r\n<span class=\"title\">\r\n<a href=\"/#victoria\">Victoria Martinez de la Cruz</a>\r\n</span>"}], "time": "5:00 PM"}, {"sessions": [{"timeStart": "6:30 PM", "kind": "Cierre, premios y sorteos", "location": "Ada Lovelace", "tags": "", "timeEnd": "7:00 PM", "name": "Slot"}], "time": "6:00 PM"}]}]}
+{
+	"map": [
+		{
+			"lat": -38.7196638,
+			"lng": -62.269189,
+			"name": "Club de emprendedores de Bahía Blanca (Viernes 25)",
+			"center": true
+		},
+		{
+			"lat": -38.7196938,
+			"lng": -62.2699801,
+			"name": "Salón de los Fundadores de la UNS (Viernes 25)"
+		},
+		{
+			"lat": -38.6954712,
+			"lng": -62.2564776,
+			"name": "Complejo Palihue - UNS (Sábado 26 y Domingo 27)"
+		}
+	],
+	"speakers": [
+		{
+			"twitter": "",
+			"profilePic": "",
+			"name": ""
+		},
+		{
+			"twitter": "",
+			"profilePic": "",
+			"name": ""
+		},
+		{
+			"twitter": "",
+			"profilePic": "",
+			"name": ""
+		},
+		{
+			"twitter": "areq",
+			"profilePic": "",
+			"name": "Agustin"
+		},
+		{
+			"twitter": "agustinbenassi",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/DSC00288_low_quality.jpg",
+			"name": "Agustín Benassi (Beni)"
+		},
+		{
+			"twitter": "",
+			"profilePic": "",
+			"name": "Ariel Farkas"
+		},
+		{
+			"twitter": "asnramos",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/ARIEL-SILVIO-NORBERTO-RAMOS.jpg",
+			"name": "Ariel Silvio"
+		},
+		{
+			"twitter": "alanAsmis",
+			"profilePic": "",
+			"name": "Asmis Alan"
+		},
+		{
+			"twitter": "bel_walter",
+			"profilePic": "",
+			"name": "Bel Walter"
+		},
+		{
+			"twitter": "vrunoa",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/12308258_10208104421431645_1117766459920535970_n.jpg",
+			"name": "Bruno Alassia"
+		},
+		{
+			"twitter": "RTFMCelia",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Celia_Cintas.png",
+			"name": "Celia Cintas"
+		},
+		{
+			"twitter": "",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/claudio_color-1.jpg",
+			"name": "Claudio Freire"
+		},
+		{
+			"twitter": "cynpy",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/cyn.jpg",
+			"name": "Cynthia Monastirsky"
+		},
+		{
+			"twitter": "",
+			"profilePic": "",
+			"name": "David Garoz"
+		},
+		{
+			"twitter": "dcanizares",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/1503965_10153249251919427_1756086513220248124_n.jpg",
+			"name": "Diego G. Cañizares"
+		},
+		{
+			"twitter": "diegoram",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/foto.jpeg",
+			"name": "Diego Ramirez"
+		},
+		{
+			"twitter": "edvm",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/avatar_G0HKmG8.jpg",
+			"name": "Emiliano Dalla Verde Marcozzi"
+		},
+		{
+			"twitter": "facundobatista",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/facundobatista.jpeg",
+			"name": "Facundo Batista"
+		},
+		{
+			"twitter": "fedebrest",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/perfil.jpg",
+			"name": "Fede Brest"
+		},
+		{
+			"twitter": "fmasanori",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Fernando_Masanori_O_Globo.jpg",
+			"name": "FERNANDO MASANORI ASHIKAGA"
+		},
+		{
+			"twitter": "fisadev",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/vanguard.png",
+			"name": "Fisa (Juan Pedro Fisanotti)"
+		},
+		{
+			"twitter": "freedomfn",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/14882241_10207692620613161_5171427483182706693_o.jpg",
+			"name": "Flor Novidelsky"
+		},
+		{
+			"twitter": "_alfacentauri",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/pic.png",
+			"name": "Gabriel Acosta"
+		},
+		{
+			"twitter": "",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Gerva.png",
+			"name": "Gervasio Calderón"
+		},
+		{
+			"twitter": "HoracioNakama",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/vBhuN5ta.jpeg",
+			"name": "Horacio Mayo"
+		},
+		{
+			"twitter": "",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/ME.jpeg",
+			"name": "Ignacio Fiorentino"
+		},
+		{
+			"twitter": "nacho_hrdia",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/profile2.jpg",
+			"name": "Ignacio Heredia"
+		},
+		{
+			"twitter": "fabularcierto",
+			"profilePic": "",
+			"name": "Javier Derderyan"
+		},
+		{
+			"twitter": "",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/1b5ed78.jpg",
+			"name": "Javier Mansilla"
+		},
+		{
+			"twitter": "jeanntorrez",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/fotojeanperfil.png",
+			"name": "Jeannette Torrez"
+		},
+		{
+			"twitter": "j_e_d",
+			"profilePic": "",
+			"name": "j_e_d"
+		},
+		{
+			"twitter": "_joac",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/color_corrected_profile.jpg",
+			"name": "Joaquín Sorianello"
+		},
+		{
+			"twitter": "jorge_h_namour",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/fotoJorge.jpg",
+			"name": "Jorge Namour"
+		},
+		{
+			"twitter": "skajms",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/ska_LwxZMpJ.jpg",
+			"name": "Juan Manuel Schillaci"
+		},
+		{
+			"twitter": "_luchorossi",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/lukio.jpg",
+			"name": "Luciano Rossi (lukio)"
+		},
+		{
+			"twitter": "reydelhumo",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/avatar_reydelhumo.jpg",
+			"name": "Manuel Kaufmann"
+		},
+		{
+			"twitter": "",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/117318.png",
+			"name": "Mariano Lambir"
+		},
+		{
+			"twitter": "alderetemartin",
+			"profilePic": "",
+			"name": "Martin Alderete (malderete)"
+		},
+		{
+			"twitter": "meliascosta",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/equipo-mec.png",
+			"name": "Martin Elias Costa"
+		},
+		{
+			"twitter": "",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/image.png",
+			"name": "Martin Ribelotta"
+		},
+		{
+			"twitter": "",
+			"profilePic": "",
+			"name": "Miguel Barraza"
+		},
+		{
+			"twitter": "d3f0",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/europython.jpg",
+			"name": "Nahuel Defossé"
+		},
+		{
+			"twitter": "gilgamezh",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/nico_web_2015.jpg",
+			"name": "Nicolás Demarchi (GiLgAmEzH)"
+		},
+		{
+			"twitter": "cocodibuja",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/1tqmV9gE.jpg",
+			"name": "Nicolas Quiroz"
+		},
+		{
+			"twitter": "nah_omy",
+			"profilePic": "",
+			"name": "Noemi Ticona Angles"
+		},
+		{
+			"twitter": "",
+			"profilePic": "",
+			"name": "Pablo Navarro"
+		},
+		{
+			"twitter": "pk_pacheco",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/IMG_8501.JPG",
+			"name": "Paola Katherine"
+		},
+		{
+			"twitter": "Rafa_Carrascosa",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/sandia.jpg",
+			"name": "Rafael Carrascosa"
+		},
+		{
+			"twitter": "ralsina",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/yo.jpg",
+			"name": "Roberto Alsina"
+		},
+		{
+			"twitter": "sebastianbrachi",
+			"profilePic": "",
+			"name": "Sebastian Brachi"
+		},
+		{
+			"twitter": "sebastianmarro",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/foto250.png",
+			"name": "Sebastián Marró"
+		},
+		{
+			"twitter": "Aun_Siro",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/Siro.jpg",
+			"name": "Siro Moreno"
+		},
+		{
+			"twitter": "lriccombene",
+			"profilePic": "",
+			"name": "SLAM Lucas"
+		},
+		{
+			"twitter": "entrerrianas",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/tux.png",
+			"name": "Sofia Martin"
+		},
+		{
+			"twitter": "argenpython",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/argentinaenpython-fondoblanco.png",
+			"name": "Taller de programación para mujeres Django Girls, Bahía Blanca."
+		},
+		{
+			"twitter": "viniciuspach",
+			"profilePic": "http://ar.pycon.org/site_media/media/speaker_photos/AAEAAQAAAAAAAAVyAAAAJDMzZTg2ODlmLTNjOTAtNGEzNC04NDhiLTA1NWIxOGRlNDRlYQ.jpg",
+			"name": "Vinicius Feitosa Pacheco"
+		}
+	],
+	"schedule": [
+		{
+			"date": "2016-11-25",
+			"groups": [
+				{
+					"sessions": [
+						{
+							"timeStart": "8:00 AM",
+							"kind": "libre",
+							"location": "Auditorio, Cowork rojo, Cowork azul",
+							"tags": "",
+							"timeEnd": "8:30 AM",
+							"name": "Slot"
+						},
+						{
+							"kind": "taller",
+							"description": "¡Queremos animar a más mujeres a dominar la web! Es por eso que desde [Argentina en Python](http://bit.ly/argenpy) en conjunto con [Django Girls Mendoza](http://bit.ly/dg-mdz) organizamos un taller donde creas tu propio sitio web desde cero en 1 día. Utilizaremos herramientas que un programador profesional utiliza diariamente de una manera muy sencilla. \r\n\r\n**¡Es hora de aprender a programar!**",
+							"name": "Taller de Programación para Mujeres Django Girls",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/30/",
+							"timeEnd": "7:00 PM",
+							"speakerNames": [
+								"Taller de programación para mujeres Django Girls, Bahía Blanca."
+							],
+							"timeStart": "8:00 AM",
+							"location": "Salón \"Fundadores\"",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"timeStart": "8:30 AM",
+							"kind": "acreditaciones",
+							"location": "Auditorio, Cowork rojo, Cowork azul",
+							"tags": "",
+							"timeEnd": "9:00 AM",
+							"name": "Slot"
+						}
+					],
+					"time": "8:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Vamos a aprender a hacer aplicaciones con Interfáz Gráfica de Usuario utilizando Python y Qt. Haremos un tour por los elementos básicos y más usados de éste framework.",
+							"name": "El Tour de PyQt",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/21/",
+							"timeEnd": "10:00 AM",
+							"speakerNames": [
+								"Gabriel Acosta"
+							],
+							"timeStart": "9:00 AM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"timeStart": "9:00 AM",
+							"kind": "sprints",
+							"location": "Cowork rojo",
+							"tags": "",
+							"timeEnd": "12:00 PM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "9:00 AM",
+							"kind": "sprints",
+							"location": "Cowork azul",
+							"tags": "",
+							"timeEnd": "12:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "9:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Code-cropper extrae comportamiento de código Python live, generando un programa equivalente reducido a funciones o clases de interés. Puede servir para simplificar un programa, generar Unit-tests, auditoría, mocking, etc.\r\nSe usan:\r\n\r\n * metaprogramación\r\n\r\n * formato Json para el grafo de llamadas\r\n\r\n * colas multithreading\r\n\r\n * generación de código\r\n\r\nhttps://github.com/GervasioCalderon/code-cropper/",
+							"name": "Code-cropper: código que genera código más simple",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/45/",
+							"timeEnd": "11:00 AM",
+							"speakerNames": [
+								"Gervasio Calderón"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						}
+					],
+					"time": "10:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Como transformar tu proyecto Django en un proveedor de OpenID Connect para permitir a distintas aplicaciones, sin importar la tecnología, verificar la identidad de tus usuarios. Utilizando el paquete django-oidc-provider.",
+							"name": "OpenID Connect Provider en segundos con Django",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/22/",
+							"timeEnd": "12:00 PM",
+							"speakerNames": [
+								"Ignacio Fiorentino"
+							],
+							"timeStart": "11:00 AM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						}
+					],
+					"time": "11:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "12:00 PM",
+							"kind": "almuerzo",
+							"location": "Auditorio, Cowork rojo, Cowork azul",
+							"tags": "",
+							"timeEnd": "1:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "12:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Introducción a documentación de APIs ReST con [Swagger](http://swagger.io/) y cómo podemos sacarle el jugo con Python",
+							"name": "Ponele un poco de swag a tus APIs",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/7/",
+							"timeEnd": "2:00 PM",
+							"speakerNames": [
+								"Cynthia Monastirsky"
+							],
+							"timeStart": "1:00 PM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"timeStart": "1:00 PM",
+							"kind": "sprints",
+							"location": "Cowork rojo",
+							"tags": "",
+							"timeEnd": "6:00 PM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "1:00 PM",
+							"kind": "sprints",
+							"location": "Cowork azul",
+							"tags": "",
+							"timeEnd": "6:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "1:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Kivy es un framework para crear apliocaciones para computadoras y móviles. Hace poco tiempo empecé a trabajar con este framework, si bien nunca había programado para móviles ya que no podía hacerlo en Python, no fue difícil el comienzo de su utilización. A medida que la app iba requiriendo características más avanzadas fui experimentando  inconvenientes.",
+							"name": "Poniéndonos un poco mas serio con Kivy",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/42/",
+							"timeEnd": "3:00 PM",
+							"speakerNames": [
+								"Sofia Martin",
+								"Ariel Farkas"
+							],
+							"timeStart": "2:00 PM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						}
+					],
+					"time": "2:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Mi experiencia haciendo más de 20 bots para Twitter (con distintos grados de complejidad, utilidad y popularidad) usando Python y como podés hacer el tuyo (con o sin Python).",
+							"name": "Twitter bots con o sin Python",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/44/",
+							"timeEnd": "4:00 PM",
+							"speakerNames": [
+								"j_e_d"
+							],
+							"timeStart": "3:00 PM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "3:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Muchos habremos comprado una raspberry Pi y la terminamos guardando en un cajón!\r\nEl ecosistema de esta linda amiguita ha evolucionado enormemente y le podemos sacar el jugo, con el uso de 2 o tres modulos geniales para hacer IOT, robotica y domotica.",
+							"name": "Desempolvando mi vieja raspberryPi",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/16/",
+							"timeEnd": "5:00 PM",
+							"speakerNames": [
+								"Diego Ramirez"
+							],
+							"timeStart": "4:00 PM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "4:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "¿Cuántas tuviste que escalar, con multiprocessing, o tu framework favorito?\r\n¿Notaste que los requisitos de memoria se te iban a las nubes?\r\nPresentaré una lib recién salida de la panadería, *sharedbuffers*, y \r\nlas técnicas y conceptos detrás de la misma. Cómo crear segmentos de\r\nmemoria compartida, cómo usarlos para compartir objetos y estructuras complejas,\r\ne incluso que no entran en memoria.",
+							"name": "Compartiendo memoria eficientemente con proxies",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/36/",
+							"timeEnd": "6:00 PM",
+							"speakerNames": [
+								"Claudio Freire"
+							],
+							"timeStart": "5:00 PM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Intermedio"
+						}
+					],
+					"time": "5:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "6:00 PM",
+							"kind": "libre",
+							"location": "Auditorio, Cowork rojo, Cowork azul",
+							"tags": "",
+							"timeEnd": "7:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "6:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "taller",
+							"description": "En este taller exploraremos cuál es el vínculo entre los derechos humanos y el cifrado desde distintos ejes:\r\nsu importancia para la protección y promoción de los derechos (a la privacidad, la libertad de expresión, de pensamiento, de reunión y asociación);\r\ncuáles son los conflictos actuales entre el cifrado para la protección de nuestras comunicaciones y dispositivos y la necesidad del Estado de investigar el delito;\r\nqué podemos hacer para cambiar la situación actual del cifrado como una herramienta de \"lujo\" a la cual pocas personas pueden acceder;\r\npor qué es importante que la comunidad técnica se involucre en estos debates;\r\nla importancia de que todos los ciudadanos protejan sus comunicaciones y dispositivos.\r\nPoner en común cuales son los desafíos que atraviesa la comunidad técnica en la implementación de tecnologías que pueden poner en riesgo derechos fundamentales de los ciudadanos.\r\n\r\nEl formato del taller es sencillo y pretende ser una conversación en la cual les pediremos a los participantes que nos puedan brindar su visión acerca de los ejes planteados.\r\nPara garantizar una mejor participación de los asistentes, en el encuentro utilizaremos las reglas de Chatham House. La regla dispone que las personas que asisten a un seminario/taller/encuentro pueden discutir los resultados del seminario en el mundo exterior, pero no pueden discutir quién asistió o identificar lo que dijo un individuo específico. El objetivo es facilitar la discusión franca y honesta sobre temas de interés.",
+							"name": "Meetup \"Defendiendo nuestros derechos humanos en la era digital: el rol del cifrado\"",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/35/",
+							"timeEnd": "9:00 PM",
+							"speakerNames": [
+								"Jeannette Torrez"
+							],
+							"timeStart": "7:00 PM",
+							"location": "Auditorio",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"timeStart": "7:00 PM",
+							"kind": "libre",
+							"location": "Cowork rojo, Cowork azul, Salón \"Fundadores\"",
+							"tags": "",
+							"timeEnd": "9:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "7:00 PM"
+				}
+			]
+		},
+		{
+			"date": "2016-11-26",
+			"groups": [
+				{
+					"sessions": [
+						{
+							"timeStart": "9:00 AM",
+							"kind": "acreditaciones",
+							"location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "9:30 AM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "9:30 AM",
+							"kind": "Apertura",
+							"location": "Ada Lovelace",
+							"tags": "",
+							"timeEnd": "10:00 AM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "9:30 AM",
+							"kind": "libre",
+							"location": "Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "10:00 AM",
+							"name": "Slot"
+						}
+					],
+					"time": "9:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Tryton (www.tryton.org) ofrece todas las funcionalidades necesarias de una plataforma de desarrollo de aplicaciones libre completa: persistencia de datos, extensa modularidad, administración de usuarios (autenticación, control detallado de acceso a los datos, manejo concurrente a recursos), flujos de trabajo y motores de reportes, servicios web e internacionalización. ¡Desarrollando con Tryton!",
+							"name": "Desarrollando aplicaciones con el framework Tryton",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/43/",
+							"timeEnd": "11:00 AM",
+							"speakerNames": [
+								"Luciano Rossi (lukio)",
+								"Sebastián Marró"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "Experiencia portando Micropython a la EDU-CIAA. Una vision rapida a los intestinos desde la experiencia de un port real.",
+							"name": "Micropython en EDU-CIAA",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/15/",
+							"timeEnd": "11:00 AM",
+							"speakerNames": [
+								"Martin Ribelotta"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "taller",
+							"description": "En este taller veremos una gentil introducción al mundo de deep learning desde Python con la ayuda de Lasagne, Numpy, Pandas y OpenCV de la mano de nuestras naves favoritas de Star Wars. En este tutorial caminaremos por el pipeline, comenzando desde la adquisición de datos, su preparación, construcción de ConvNets, entrenamiento y evaluación, con el fin de clasificar distintos tipos de naves!",
+							"name": "Introducción a deep learning con Python: El despertar de la fuerza (1ra parte)",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/14/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Celia Cintas"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Cecilia T. de Berdichevsky",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "taller",
+							"description": "Un futuro Ingeniero Agronomo mostrando los inicios en Python sin saber programar: que hay que saber al inicio, las herramientas que más le sirvieron y como lo aplica a su trabajo científico y agronómico.",
+							"name": "Como empezar de cero en Python: Torciendo la curva de aprendizaje",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/29/",
+							"timeEnd": "11:00 AM",
+							"speakerNames": [
+								"Horacio Mayo"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Margaret Hamilton",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "10:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Un ejemplo de \"Infraestructura as code\". Docker desde el desarrollo a producción usando gitlab y Rancher.",
+							"name": "Infraestrucura como código. Docker en todos lados",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/6/",
+							"timeEnd": "12:00 PM",
+							"speakerNames": [
+								"Nicolás Demarchi (GiLgAmEzH)"
+							],
+							"timeStart": "11:00 AM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "Explicación de distintos aspectos del lenguaje que traen dolores de cabeza hasta entenderlos.",
+							"name": "Bindings, default mutable arguments, y otros quilom... detalles",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/1/",
+							"timeEnd": "12:00 PM",
+							"speakerNames": [
+								"Facundo Batista"
+							],
+							"timeStart": "11:00 AM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "taller",
+							"description": "Haremos un recorrido desde las fuentes de datos hasta las herramientas que nos permiten explotarlos analíticamente. Vamos a contarles qué es un Portal de Datos Abiertos, qué APIs interesantes exponen datos y cómo aprovechar herramientas como Jupyter, pandas, matplotlib, numpy y scipy para darles valor agregado.",
+							"name": "Análisis de Datos Abiertos en Python + Jupyter",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/32/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Ignacio Heredia",
+								"Agustín Benassi (Beni)",
+								"Martin Elias Costa"
+							],
+							"timeStart": "11:00 AM",
+							"location": "Margaret Hamilton",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						}
+					],
+					"time": "11:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Me gustaría contarles mi experiencia sobre cómo logramos vincular las disciplinas de ingeniería, medicina y programación (Python). Donde desarrollamos una Red Neuronal Artificial que fue validada contra un paper publicado previamente por dos investigadores importantes en el campo de la neurociencia, además lo presentamos en formato en unos de los Congresos de Sociedad Argentina de Neurociencias.",
+							"name": "Vinculando la medicina y la ingeniería mediante Python",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/11/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Nicolas Quiroz"
+							],
+							"timeStart": "12:00 PM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"kind": "charla",
+							"description": "En esta charla veremos como implementar una simple aplicación de línea de comandos con opciones múltiples y variadas, usando Docopt. Docopt es una librería Python que permite parsear opciones en una cli, describiendo de manera natural la interfaz como si se tratara de un help.",
+							"name": "Docopt - Option parser para seres humanos",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/19/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Juan Manuel Schillaci"
+							],
+							"timeStart": "12:00 PM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "12:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "1:00 PM",
+							"kind": "almuerzo",
+							"location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "2:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "1:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "taller",
+							"description": "En este taller veremos una gentil introducción al mundo de deep learning desde Python con la ayuda de Lasagne, Numpy, Pandas y OpenCV de la mano de nuestras naves favoritas de Star Wars. En este tutorial caminaremos por el pipeline, comenzando desde la adquisición de datos, su preparación, construcción de ConvNets, entrenamiento y evaluación, con el fin de clasificar distintos tipos de naves!",
+							"name": "Introducción a deep learning con Python: El despertar de la fuerza (2da parte)",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/47/",
+							"timeEnd": "3:30 PM",
+							"speakerNames": [
+								"Celia Cintas"
+							],
+							"timeStart": "2:00 PM",
+							"location": "Cecilia T. de Berdichevsky",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"timeStart": "2:00 PM",
+							"kind": "plenaria",
+							"location": "Ada Lovelace",
+							"tags": "",
+							"timeEnd": "3:00 PM",
+							"name": "<span class=\"title\">\r\nKeynote\r\n</span>\r\n<span class=\"title\">\r\n<a href=\"/#fernando\">Fernando Schapachnik</a>\r\n</span>"
+						},
+						{
+							"kind": "taller",
+							"description": ".:.Pygame desde CERO.:. es un taller destinado al público en general. Daremos un recorrido desde la historia de Python, SDL y Pygame, pasando por el uso e implementación de varias funcionalidades de Pygame (crear ventana, insertar, mover, girar y colisionar objetos), además, desarrollaremos entre todos los presentes el famoso juego “Snake” utilizando una plantilla para manejo de multiples pantalla",
+							"name": "Pygame desde CERO",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/33/",
+							"timeEnd": "5:00 PM",
+							"speakerNames": [
+								"Jorge Namour"
+							],
+							"timeStart": "2:00 PM",
+							"location": "Margaret Hamilton",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"timeStart": "2:00 PM",
+							"kind": "libre",
+							"location": "Grace Hopper",
+							"tags": "",
+							"timeEnd": "3:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "2:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "En esta charla contaremos cómo implementamos una herramienta en Python que permite categorizar de forma sugerida (mediante aprendizaje automático), y reconocer temáticas repetidas (mediante procesamiento del lenguaje natural) aplicado al manejo de información de los informes mensuales que envía el Congreso Nacional al Poder Ejecutivo.",
+							"name": "Procesamiento del Lenguaje Natural en el Congreso de la Nación",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/20/",
+							"timeEnd": "4:00 PM",
+							"speakerNames": [
+								"Ignacio Heredia",
+								"Martin Elias Costa"
+							],
+							"timeStart": "3:00 PM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "Una breve y amable introducción a Flask, tratando de entender cómo y porqué es una buena solución a problemas comunes, versus otras alternativas existentes en el mercado, tal vez más populares y renombradas.",
+							"name": "El tamaño no importa: Flask, un gran microframework",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/17/",
+							"timeEnd": "4:00 PM",
+							"speakerNames": [
+								"Diego G. Cañizares"
+							],
+							"timeStart": "3:00 PM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"kind": "taller",
+							"description": "Ejemplos practicos de Micropython usando las placas EDU-CIAA",
+							"name": "Micropython en CIAA",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/28/",
+							"timeEnd": "5:00 PM",
+							"speakerNames": [
+								"Martin Ribelotta"
+							],
+							"timeStart": "3:30 PM",
+							"location": "Cecilia T. de Berdichevsky",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "3:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Las redes neuronales son hoy en día uno de los modelos de Machine Learning que está generando los mejores resultados para problemas complejos, con muchas grandes compañías impulsando su avance. En esta charla haremos una introducción a Keras, paquete para hacer y entrenar redes neuronales en Python con TensorFlow como backend.",
+							"name": "Redes neuronales con Python utilizando Keras",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/4/",
+							"timeEnd": "5:00 PM",
+							"speakerNames": [
+								"Fisa (Juan Pedro Fisanotti)"
+							],
+							"timeStart": "4:00 PM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "En la charla vamos a ver y anaalizar distintos esquemas de concurrencia disponibles en Python.\r\nSe mostrará el uso de Threads, multiprocessing y cooperative multitasking (gevent y asyncio).\r\nTambien charlaremos sobre cuestiones internas de CPython como el GIL.",
+							"name": "Concurrencia en Python",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/2/",
+							"timeEnd": "5:00 PM",
+							"speakerNames": [
+								"Martin Alderete (malderete)"
+							],
+							"timeStart": "4:00 PM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						}
+					],
+					"time": "4:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "5:00 PM",
+							"kind": "Merienda / Proyección documental \"Net of Rights\"",
+							"location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "5:30 PM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "5:30 PM",
+							"kind": "Charlas relámpago",
+							"location": "Ada Lovelace",
+							"tags": "",
+							"timeEnd": "6:30 PM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "5:30 PM",
+							"kind": "libre",
+							"location": "Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "7:30 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "5:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "6:30 PM",
+							"kind": "plenaria",
+							"location": "Ada Lovelace",
+							"tags": "",
+							"timeEnd": "7:30 PM",
+							"name": "<span class=\"title\">\r\nKeynote\r\n</span>\r\n<span class=\"title\">\r\n<a href=\"/#angel\">Ángel Medinilla</a>\r\n</span>"
+						}
+					],
+					"time": "6:00 PM"
+				}
+			]
+		},
+		{
+			"date": "2016-11-27",
+			"groups": [
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "En esta charla se presentarán los proyectos más significativos del stack de data science en Python. Se mecionarán herramientas de visualización, machine learning, cómputo distribuido, etc.",
+							"name": "Data Science en Python, una guia de proyectos y herramientas",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/18/",
+							"timeEnd": "11:00 AM",
+							"speakerNames": [
+								"Rafael Carrascosa"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"kind": "charla",
+							"description": "PyLadies en el Brazil, como un de los fatores para tener 42% de mujeres speaker's, en la ultima PyCon\r\nImplementamos el Código de Conduta, como explicado en https://www.coc-handbook.com/ \r\nAcertos y errores, en la práctica, do ponto de vista de un miembro del time de respuesta.\r\nExplicación del Manifesto Pybr12: sticker con los principios de inclusión de la conferencia 2016",
+							"name": "import pybr12: experiencias de inclusión en la última PyCon Brazil",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/23/",
+							"timeEnd": "11:00 AM",
+							"speakerNames": [
+								"FERNANDO MASANORI ASHIKAGA",
+								"Paola Katherine"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"kind": "taller",
+							"description": "Taller orientado a la programación de aplicaciones móviles con Kivy.",
+							"name": "Programación Móvil con Python (Kivy)",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/27/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Nahuel Defossé"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Cecilia T. de Berdichevsky",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "taller",
+							"description": "Taller para No Videntes usando las alternativas: NVDA en windows, y ORCA en linux, aplicaciones desarrolladas con Software Libre y en Python.\r\nA partir del uso de estos lectores de pantalla los introducimos en el fantástico mundo de la programación.\r\nUsando Python, claro está!",
+							"name": "Taller de programación para No Videntes",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/46/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Ariel Silvio",
+								"Miguel Barraza"
+							],
+							"timeStart": "10:00 AM",
+							"location": "Margaret Hamilton",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "10:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Forefer alone?!... No con Python! En esta charla te muestro como programar un bot que sepa responder las preguntas que hacen tus usuarios.",
+							"name": "Programando bots charlatanes",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/9/",
+							"timeEnd": "12:00 PM",
+							"speakerNames": [
+								"Emiliano Dalla Verde Marcozzi"
+							],
+							"timeStart": "11:00 AM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "El objetivo de esta charla es introducir conceptos de [django chanels](https://github.com/django/channels), con ejemplos simples, culminando en el desarrollo de una version \"multijugador\" del clasico juego snake, que podra ser controlada por los asistentes desde sus celulares/notebooks/etc",
+							"name": "Django Channels - Armemos un 'snake' multijugador",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/3/",
+							"timeEnd": "12:00 PM",
+							"speakerNames": [
+								"Mariano Lambir"
+							],
+							"timeStart": "11:00 AM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						}
+					],
+					"time": "11:00 AM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Una invitación a explorar y sumergirse a bucear por las profundidades del aprendizaje automático.",
+							"name": "Deep learning: Aprendiendo con la Escafandra",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/26/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Javier Mansilla"
+							],
+							"timeStart": "12:00 PM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Intermedio"
+						},
+						{
+							"kind": "charla",
+							"description": "Jugar no es lo único que se puede hacer con los video juegos. Desde los primeros juegos, artistas y programadores exploran su funcionamiento interno para crear nuevas experiencias. En esta charla, Python se usa junto con la 3d suite open source Blender para modificar juegos, mostrando lo sencillo que puede ser, qué habilidades se necesitan y por qué Python es una gran herramienta para este uso.",
+							"name": "Modding de Video Juegos con Python y Blender",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/13/",
+							"timeEnd": "1:00 PM",
+							"speakerNames": [
+								"Sebastian Brachi"
+							],
+							"timeStart": "12:00 PM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "12:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "1:00 PM",
+							"kind": "almuerzo",
+							"location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "2:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "1:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "El Psicoanálisis y la Programación parecen ir por 2 vías distintas.\r\nHasta que vemos la principal la herramienta que las 2 disciplinas utilizan: El Lenguaje.\r\n\r\nEn esta charla daré una introducción básica a lo que con del Psicoanálisis que podemos utilizar en el día a día, y que no solamente nos ayuda a mejorar el \"código\", sino que apunta a el origen de todo problema -y solución-: el sujeto.",
+							"name": "\"Psycoanálisis\" de Sistemas",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/24/",
+							"timeEnd": "3:00 PM",
+							"speakerNames": [
+								"Javier Derderyan"
+							],
+							"timeStart": "2:00 PM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "Gevent es una grande herramienta para la creación de workers e proceso asíncrono. Nesta charla vamos ver como empezamos, conceptos basicos de asíncronismo y como trabajar con Gevent en un caso real.",
+							"name": "Introducción al Gevent",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/10/",
+							"timeEnd": "3:00 PM",
+							"speakerNames": [
+								"Vinicius Feitosa Pacheco"
+							],
+							"timeStart": "2:00 PM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"kind": "taller",
+							"description": "Este taller esta pensado para que juntos podamos crear una aplicación utilizando el framework Tryton desde cero. Tendrás la posibilidad de rápidamente aprender los conceptos más importantes a la hora de hacer tu propio módulo. Como frutilla del postre, haremos una mini integración con otra aplicación.",
+							"name": "Creando mi primera aplicación con el framework Tryton",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/34/",
+							"timeEnd": "4:00 PM",
+							"speakerNames": [
+								"Luciano Rossi (lukio)",
+								"Sebastián Marró"
+							],
+							"timeStart": "2:00 PM",
+							"location": "Cecilia T. de Berdichevsky",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "¿Alguna vez soñaste con viajar y trabajar? ¿en dejarlo todo y perseguir tu sueño? ¿o llevar la programación a los lugares más recónditos? En esta charla hablaré sobre la experiencia de llevar Python a más de 100 ciudades en 8 países de Latinoamérica durante los últimos 3 años. Pequeñas historias, éxitos y fracasos, eventos realizados y la gran comunidad Python serán los tópicos de esta charla.",
+							"name": "Argentina en Python: comunidad, sueños, viajes y aprendizaje",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/39/",
+							"timeEnd": "3:00 PM",
+							"speakerNames": [
+								"Manuel Kaufmann"
+							],
+							"timeStart": "2:00 PM",
+							"location": "Margaret Hamilton",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						}
+					],
+					"time": "2:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"kind": "charla",
+							"description": "Hace más de 20 años que desarrollo software libre. Y así y todo sigo. Algo debo estar haciendo bien (o no).\r\n\r\nDesarrollo de software, creación de comunidad, manejo de proyectos y evitar quemarse la cabeza: una historia de amor.",
+							"name": "Como desarrollar software libre (o no) y no morir en el intento (o no)",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/5/",
+							"timeEnd": "4:00 PM",
+							"speakerNames": [
+								"Roberto Alsina"
+							],
+							"timeStart": "3:00 PM",
+							"location": "Ada Lovelace",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						},
+						{
+							"kind": "charla",
+							"description": "Se mostrará cómo crear soluciones paralelas e independientes al hardware (CPUs, DSP, FPGAs y GPUs) utilizando PyOpenCL. Veremos una breve introducción a conceptos básicos: arquitecturas, tipos de memoria y modelos de ejecución. Luego implementaremos el pipeline básico de una aplicación con PyOpenCL y resolveremos problemas desde simples operaciones con matrices hasta proc. de imágenes.",
+							"name": "Introducción a  programación paralela con PyOpenCL",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/8/",
+							"timeEnd": "4:00 PM",
+							"speakerNames": [
+								"Celia Cintas"
+							],
+							"timeStart": "3:00 PM",
+							"location": "Grace Hopper",
+							"cancelled": false,
+							"audience_level": "Inicial"
+						},
+						{
+							"kind": "charla",
+							"description": "Tradicionalmente, el proceso de selección de lugares óptimos para desplegar las nuevas antenas año a año generaba circulación de información preprocesada y agregada, de alto nivel, desde orígenes diferentes.",
+							"name": "Modelo de Optimización de Despliegue de Redes móviles con Python y Spark",
+							"tags": "",
+							"conf_url": "http://ar.pycon.org/schedule/presentation/48/",
+							"timeEnd": "4:00 PM",
+							"speakerNames": [
+								"Flor Novidelsky",
+								"David Garoz"
+							],
+							"timeStart": "3:00 PM",
+							"location": "Margaret Hamilton",
+							"cancelled": false,
+							"audience_level": "Avanzado"
+						}
+					],
+					"time": "3:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "4:00 PM",
+							"kind": "Merienda / Proyección documental \"Net of Rights\"",
+							"location": "Ada Lovelace, Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "4:30 PM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "4:30 PM",
+							"kind": "libre",
+							"location": "Grace Hopper, Cecilia T. de Berdichevsky, Margaret Hamilton",
+							"tags": "",
+							"timeEnd": "7:00 PM",
+							"name": "Slot"
+						},
+						{
+							"timeStart": "4:30 PM",
+							"kind": "Charlas relámpago",
+							"location": "Ada Lovelace",
+							"tags": "",
+							"timeEnd": "5:30 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "4:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "5:30 PM",
+							"kind": "plenaria",
+							"location": "Ada Lovelace",
+							"tags": "",
+							"timeEnd": "6:30 PM",
+							"name": "<span class=\"title\">\r\nKeynote\r\n</span>\r\n<span class=\"title\">\r\n<a href=\"/#victoria\">Victoria Martinez de la Cruz</a>\r\n</span>"
+						}
+					],
+					"time": "5:00 PM"
+				},
+				{
+					"sessions": [
+						{
+							"timeStart": "6:30 PM",
+							"kind": "Cierre, premios y sorteos",
+							"location": "Ada Lovelace",
+							"tags": "",
+							"timeEnd": "7:00 PM",
+							"name": "Slot"
+						}
+					],
+					"time": "6:00 PM"
+				}
+			]
+		}
+	]
+}
