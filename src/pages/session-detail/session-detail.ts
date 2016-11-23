@@ -26,14 +26,12 @@ export class SessionDetailPage {
     } else {
       this.deviceUUID = '123412409I210'; //in dev 
     }
-    console.log("this.deviceUUID: " + this.deviceUUID);
   }
 
   voteTalk() {
     if(!this.talkVoted()) {
       this.error = "";
       let link = 'https://pyconar-talks.fiqus.com/api/scores';
-      console.log("this.deviceUUID: " + this.deviceUUID);
       var data = {score: {score: this.voteMade, user_id: this.deviceUUID, talk_id: this.session.idTalk}};
       let headers = new Headers({ 'Content-Type': 'application/json',  });
       let options = new RequestOptions({ headers: headers });
@@ -54,9 +52,7 @@ export class SessionDetailPage {
 
   setVote(voteValue) {
     if(!this.talkVoted()) {
-      console.log("vote: ", voteValue);
       this.voteMade = voteValue;
-      console.log("this.voteMade: ", this.voteMade);
     }
   }
 
@@ -65,7 +61,6 @@ export class SessionDetailPage {
     if (wasVoted) {
       this.voteMade = wasVoted;
     }
-    console.log("wasVoted:" + wasVoted);
     return wasVoted;
   }
 }
