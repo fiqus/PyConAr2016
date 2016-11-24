@@ -19,6 +19,7 @@
     <allow-navigation href="https://*/*" />
     <allow-navigation href="tel:*" />
     <allow-navigation href="mailto:*" />
+    <allow-navigation href="data:*" />
 
     <platform name="android">
         <allow-intent href="market:*" />
@@ -28,12 +29,12 @@
         <icon density="xhdpi" src="resources/android/icon/mipmap-xhdpi/ic_launcher.png" />
         <icon density="xxhdpi" src="resources/android/icon/mipmap-xxhdpi/ic_launcher.png" />
         <icon density="xxxhdpi" src="resources/android/icon/mipmap-xxxhdpi/ic_launcher.png" />
-        <splash density="port-ldpi" src="resources/android/splash/drawable-port-ldpi-screen.png" />
-        <splash density="port-mdpi" src="resources/android/splash/drawable-port-mdpi-screen.png" />
-        <splash density="port-hdpi" src="resources/android/splash/drawable-port-hdpi-screen.png" />
-        <splash density="port-xhdpi" src="resources/android/splash/drawable-port-xhdpi-screen.png" />
-        <splash density="port-xxhdpi" src="resources/android/splash/drawable-port-xxhdpi-screen.png" />
-        <splash density="port-xxxhdpi" src="resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+        <splash density="port-ldpi" src="resources/android/splash/drawable-mdpi/background.9.png" />
+        <splash density="port-mdpi" src="resources/android/splash/drawable-mdpi/background.9.png" />
+        <splash density="port-hdpi" src="resources/android/splash/drawable-hdpi/background.9.png" />
+        <splash density="port-xhdpi" src="resources/android/splash/drawable-xhdpi/background.9.png" />
+        <splash density="port-xxhdpi" src="resources/android/splash/drawable-xxhdpi/background.9.png" />
+        <splash density="port-xxxhdpi" src="resources/android/splash/drawable-xxxhdpi/background.9.png" />
     </platform>
     <platform name="ios">
         <allow-intent href="itms:*" />

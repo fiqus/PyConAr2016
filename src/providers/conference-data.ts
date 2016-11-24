@@ -56,7 +56,6 @@ export class ConferenceData {
     // loop through each speaker and load the speaker data
     // using the speaker name as the key
     session.speakers = [];
-
     // formateo el name, porque puede venir html desde el endpoint
     session.name = session.name.replace(/(?:\\[rn]|[\r\n]+)+/g, ' ', 'gi').replace(/(<([^>]+)>)/ig, '').trim();
 
@@ -73,7 +72,6 @@ export class ConferenceData {
     if(!session.tracks) {
       session.tracks = ["Python"]
     }
-
     if (session.tracks) {
       session.tracks.forEach(track => {
         if (data.tracks.indexOf(track) < 0) {
@@ -94,12 +92,11 @@ export class ConferenceData {
 
         queryText = queryText.toLowerCase().replace(/,|\.|-/g, ' ');
         let queryWords = queryText.split(' ').filter(w => !!w.trim().length);
-
         if(day != "undefined"){
             day.groups.forEach(group => {
               group.hide = true;
-
               group.sessions.forEach(session => {
+                
                 // check if this session should show or not
                 this.filterSession(session, queryWords, excludeTracks, segment);
 
@@ -118,7 +115,7 @@ export class ConferenceData {
   }
 
   filterSession(session, queryWords, excludeTracks, segment) {
-
+    
     let matchesQueryText = false;
     if (queryWords.length) {
       // of any query word is in the session name than it passes the query test
@@ -140,11 +137,11 @@ export class ConferenceData {
         session.name = session.kind;
       }
     }
+    
     //console.log('session.name', session.name);
     //console.log('session.kind', session.kind);
 
-
-     // if any of the sessions tracks are not in the
+    // if any of the sessions tracks are not in the
     // exclude tracks then this session passes the track test
     let matchesTracks = false;
     session.tracks.forEach(trackName => {
@@ -167,6 +164,7 @@ export class ConferenceData {
     // all tests must be true if it should not be hidden
     session.hide = !(matchesQueryText && matchesTracks && matchesSegment);
     //console.log('session.hide', session.hide);
+  
   }
 
   getSpeakers() {

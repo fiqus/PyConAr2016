@@ -36,7 +36,7 @@
         <ion-icon name="md-calendar" item-left></ion-icon>
         <ion-label class="item-stable schedule-day" (click)="toggleDay(day)"
                    [ngClass]="{'active': isDayShown(day)}">
-          <strong>{{day.date|date}}</strong>
+          <strong>{{day.date}}</strong>
         </ion-label>
       </ion-item-divider>
       <ion-item-group *ngFor="let group of day.groups"
