@@ -9,7 +9,7 @@
 
 <ion-content class="outer-content speaker-list">
   <ion-card *ngFor="let speaker of speakers" class="speaker">
-    <ion-card-header>
+    <ion-card-header *ngIf="speaker.sessions">
       <ion-item (click)="goToSpeakerDetail(speaker)">
         <ion-avatar item-left>
           <img *ngIf="speaker.profilePic" [src]="speaker.profilePic">
