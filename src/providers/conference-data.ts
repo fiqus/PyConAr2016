@@ -56,8 +56,10 @@ export class ConferenceData {
     // loop through each speaker and load the speaker data
     // using the speaker name as the key
     session.speakers = [];
-    // formateo el name, porque puede venir html desde el endpoint
-    session.name = session.name.replace(/(?:\\[rn]|[\r\n]+)+/g, ' ', 'gi').replace(/(<([^>]+)>)/ig, '').trim();
+    // formateo el name de las plenarias, porque pueden venir con html desde el endpoint
+    if(session.kind == "plenaria") {
+      session.name = session.name.replace(/(?:\\[rn]|[\r\n]+)+/g, ' ', 'gi').replace(/(<([^>]+)>)/ig, '').trim();
+    }
 
     if (session.speakerNames) {
       session.speakerNames.forEach(speakerName => {
